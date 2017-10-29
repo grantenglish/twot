@@ -62,8 +62,5 @@ class beers:
         d = json.dumps(beers,sort_keys=True,indent=4, separators=(',', ': '))
         return d
 
-
-
-
 if __name__ == "__main__":
     app.run()
