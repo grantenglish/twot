@@ -59,8 +59,8 @@ class beers:
             l = [ beer[i],style[i],abv[i],size[i],price[i] ]
             beers.append(l)
 
-        d = json.dumps(beers,sort_keys=True,indent=4, separators=(',', ': '))
-        return d
+        web.header('Content-Type', 'application/json')
+        return json.dumps(beers,sort_keys=True,indent=4, separators=(',', ': '))
 
 if __name__ == "__main__":
     app.run()
