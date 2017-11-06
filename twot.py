@@ -65,7 +65,47 @@ class beers:
 
 class table:
     def GET(self):
-        return "table"
+        return "" \
+               "     <script type=\"text/javascript\" src=\"http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>\
+    <script type=\"text/javascript\" src=\"http://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.9.1/jquery.tablesorter.min.js\"></script>\
+    <script>\
+    $(function(){\
+    $(\"#myDummyTable\").tablesorter();\
+    });\
+    </script>\
+    <table id=\"myDummyTable\" class=\"tablesorter\">\
+  <thead>\
+    <tr>\
+      <th>Name</th>\
+      <th>ID</th>\
+      <th>Favorite Color</th>\
+    </tr>\
+  </thead>\
+  <tfoot>\
+    <tr>\
+      <th>Name</th>\
+      <th>ID</th>\
+      <th>Favorite Color</th>\
+    </tr>\
+  </tfoot>\
+  <tbody>\
+    <tr>\
+      <td>Jim</td>\
+      <td>00001</td>\
+      <td>Blue</td>\
+    </tr>\
+    <tr>\
+      <td>Sue</td>\
+      <td>00002</td>\
+      <td>Red</td>\
+    </tr>\
+    <tr>\
+      <td>Barb</td>\
+      <td>00003</td>\
+      <td>Green</td>\
+    </tr>\
+  </tbody>\
+</table>"
 
 if __name__ == "__main__":
     app.run()
