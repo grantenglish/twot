@@ -5,12 +5,13 @@ import web
 import json
 
 urls = (
-    '/(.*)', 'beers'
+    '/', 'beers',
+    '/table', 'table'
 )
 app = web.application(urls, globals())
 
 class beers:
-    def GET(self, name):
+    def GET(self):
         r  = requests.get("http://thewhiteoaktavern.com/whats-on-tap")
 
         data = r.text
@@ -61,6 +62,10 @@ class beers:
 
         d = json.dumps(beers,sort_keys=True,indent=4, separators=(',', ': '))
         return d
+
+class table:
+    def GET(self):
+        return "table"
 
 if __name__ == "__main__":
     app.run()
