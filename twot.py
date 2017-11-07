@@ -10,6 +10,13 @@ urls = (
 )
 app = web.application(urls, globals())
 
+beer = [0 for i in range(100)]
+abv = [0 for i in range(100)]
+style = [0 for i in range(100)]
+size = [0 for i in range(100)]
+price = [0 for i in range(100)]
+
+
 class beers:
     def GET(self):
         r  = requests.get("http://thewhiteoaktavern.com/whats-on-tap")
@@ -19,29 +26,25 @@ class beers:
         soup = BeautifulSoup(data, "html.parser")
 
         index = 0
-        beer = [0 for i in range(100)]
+#        beer = [0 for i in range(100)]
         for link in soup.find_all("a", "beername"):
             print(link.text)
             beer[index] = link.text.strip()
             index = index + 1
 
         index= 0
-        abv = [0 for i in range(100)]
         for abvelement in soup.find_all("span", "abv"):
             print(abvelement.text)
             abv[index] = abvelement.text
             index = index + 1
 
         index = 0
-        style = [0 for i in range(100)]
         for styleelement in soup.find_all("span", "style"):
             print(styleelement.text)
             style[index] = styleelement.text
             index = index + 1
 
         index = 0
-        size = [0 for i in range(100)]
-        price = [0 for i in range(100)]
         for sizeprice in soup.find_all("span", "sizeprice"):
             print("Start 0")
             print(sizeprice.text)
@@ -65,7 +68,7 @@ class beers:
 
 class table:
     def GET(self):
-        return "" \
+        table = "" \
                "     <script type=\"text/javascript\" src=\"http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>\
     <script type=\"text/javascript\" src=\"http://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.9.1/jquery.tablesorter.min.js\"></script>\
     <script>\
@@ -77,35 +80,26 @@ class table:
   <thead>\
     <tr>\
       <th>Name</th>\
-      <th>ID</th>\
-      <th>Favorite Color</th>\
+      <th>Style</th>\
+      <th>ABV</th>\
+      <th>Size</th>\
+      <th>Price</th>\
     </tr>\
   </thead>\
-  <tfoot>\
-    <tr>\
-      <th>Name</th>\
-      <th>ID</th>\
-      <th>Favorite Color</th>\
-    </tr>\
-  </tfoot>\
-  <tbody>\
-    <tr>\
-      <td>Jim</td>\
-      <td>00001</td>\
-      <td>Blue</td>\
-    </tr>\
-    <tr>\
-      <td>Sue</td>\
-      <td>00002</td>\
-      <td>Red</td>\
-    </tr>\
-    <tr>\
-      <td>Barb</td>\
-      <td>00003</td>\
-      <td>Green</td>\
-    </tr>\
-  </tbody>\
-</table>"
+  <tbody>"
+
+        for i in range(0, 30):
+            table = table + "<tr>"
+            table = table + "<td>" + beer[i] +"</td>"
+            table = table + "<td>" + style[i] +"</td>"
+            table = table + "<td>" + abv[i] +"</td>"
+            table = table + "<td>" + size[i] +"</td>"
+            table = table + "<td>" + price[i] +"</td>"
+            table = table + "</tr>"
+
+        table = table +   "</tbody></table>"
+
+        return table
 
 if __name__ == "__main__":
     app.run()
