@@ -68,12 +68,13 @@ class beers:
 
 class table:
     def GET(self):
+        global beercount
         table = "" \
                "     <script type=\"text/javascript\" src=\"http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>\
-    <script type=\"text/javascript\" src=\"http://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.9.1/jquery.tablesorter.min.js\"></script>\
+    <script type=\"text/javascript\" src=\"https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js\"></script>\
     <script>\
     $(function(){\
-    $(\"#myDummyTable\").tablesorter();\
+    $(\"#myDummyTable\").DataTable();\
     });\
     </script>\
     <table id=\"myDummyTable\" class=\"tablesorter\">\
@@ -88,11 +89,12 @@ class table:
   </thead>\
   <tbody>"
 
-        for i in range(0, 30):
+        print(beercount)
+        for i in range(0, beercount):
             table = table + "<tr>"
             table = table + "<td>" + beer[i] +"</td>"
             table = table + "<td>" + style[i] +"</td>"
-            table = table + "<td>" + abv[i] +"</td>"
+            table = table + "<td>" + str(abv[i]) +"</td>"
             table = table + "<td>" + size[i] +"</td>"
             table = table + "<td>" + price[i] +"</td>"
             table = table + "</tr>"
