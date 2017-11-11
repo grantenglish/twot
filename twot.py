@@ -15,10 +15,12 @@ abv = [0 for i in range(100)]
 style = [0 for i in range(100)]
 size = [0 for i in range(100)]
 price = [0 for i in range(100)]
+beercount = 0
 
 
 class beers:
     def GET(self):
+        global beercount
         r  = requests.get("http://thewhiteoaktavern.com/whats-on-tap")
 
         data = r.text
@@ -58,7 +60,8 @@ class beers:
             index = index + 1
 
         beers = []
-        for i in range(0 , 30):
+        beercount = index
+        for i in range(0 , beercount):
             print(beer[i],style[i],abv[i],size[i],price[i])
             l = [ beer[i],style[i],abv[i],size[i],price[i] ]
             beers.append(l)
