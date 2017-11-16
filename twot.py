@@ -63,16 +63,22 @@ def beersTable():
     global beercount
     table = "" \
             "<script type=\"text/javascript\" src=\"https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap.min.js\"></script>\
-            "<script type=\"text/javascript\" src=\"https://cdn.datatables.net/responsive/2.2.0/js/dataTables.responsive.min.js\"></script>\
-            "<script type=\"text/javascript\" src=\"https://cdn.datatables.net/responsive/2.2.0/js/responsive.bootstrap.min.js\"></script>\
-            "<script type=\"text/javascript\" src=\"http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>\
+            <script type=\"text/javascript\" src=\"https://cdn.datatables.net/responsive/2.2.0/js/dataTables.responsive.min.js\"></script>\
+            <script type=\"text/javascript\" src=\"https://cdn.datatables.net/responsive/2.2.0/js/responsive.bootstrap.min.js\"></script>\
+            <script type=\"text/javascript\" src=\"http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>\
 <script type=\"text/javascript\" src=\"https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js\"></script>\
+    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">\
+    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap.min.css\">\
+    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.datatables.net/fixedheader/3.1.3/css/fixedHeader.bootstrap.min.css\">\
+    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.datatables.net/responsive/2.2.0/css/responsive.bootstrap.min.css\">\
 <script>\
-$(function(){\
-$(\"#myDummyTable\").DataTable();\
-});\
+$(document).ready(function() {\
+    var table = $(\'#myDummyTable\').DataTable( {\
+        responsive: true\
+    } );\
+} );\
 </script>\
-<table id=\"myDummyTable\" class=\"tablesorter\">\
+<table id=\"myDummyTable\" class=\"tablesorter table table-striped\">\
 <thead>\
 <tr>\
   <th>Name</th>\
