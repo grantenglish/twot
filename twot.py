@@ -14,6 +14,7 @@ style = [0 for i in range(100)]
 size = [0 for i in range(100)]
 price = [0 for i in range(100)]
 beercount = 0
+allbeers = []
 
 
 @app.route('/')
@@ -49,14 +50,27 @@ def getBeers():
         index = index + 1
 
     beers = []
+    allbeers = []
     beercount = index
     for i in range(0 , beercount):
         l = [ beer[i],style[i],abv[i],size[i],price[i] ]
         beers.append(l)
+        j = {'type': beer[i], 'style':style[i],'abv':abv[i],'size':size[i],'price':price[i]}
+        allbeers.append(j)
 
    # web.header('Content-Type', 'application/json')
-    text = json.dumps(beers,sort_keys=True,indent=4, separators=(',', ': '))
+    text = json.dumps(allbeers,sort_keys=True,indent=4, separators=(',', ': '))
     return Response(text,  mimetype='application/json')
+
+@app.route('/file')
+def fromFile():
+    with open('beers.json') as json_data:
+        d = json.load(json_data)
+        print(d)
+
+    text = json.dumps(d, sort_keys=True, indent=4, separators=(',', ': '))
+    return Response(text, mimetype='application/json')
+
 
 @app.route('/table')
 def beersTable():
@@ -102,6 +116,56 @@ $(document).ready(function() {\
     table = table +   "</tbody></table>"
 
     return Response(table)
+
+@app.route('/tablefile')
+def beersFile():
+    global beercount
+
+    with open('beers.json') as json_data:
+        d = json.load(json_data)
+
+    table = "" \
+            "<script type=\"text/javascript\" src=\"https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap.min.js\"></script>\
+            <script type=\"text/javascript\" src=\"https://cdn.datatables.net/responsive/2.2.0/js/dataTables.responsive.min.js\"></script>\
+            <script type=\"text/javascript\" src=\"https://cdn.datatables.net/responsive/2.2.0/js/responsive.bootstrap.min.js\"></script>\
+            <script type=\"text/javascript\" src=\"http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>\
+<script type=\"text/javascript\" src=\"https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js\"></script>\
+    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">\
+    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap.min.css\">\
+    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.datatables.net/fixedheader/3.1.3/css/fixedHeader.bootstrap.min.css\">\
+    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.datatables.net/responsive/2.2.0/css/responsive.bootstrap.min.css\">\
+<script>\
+$(document).ready(function() {\
+    var table = $(\'#myDummyTable\').DataTable( {\
+        responsive: true\
+    } );\
+} );\
+</script>\
+<table id=\"myDummyTable\" class=\"tablesorter table table-striped\">\
+<thead>\
+<tr>\
+  <th>Name</th>\
+  <th>Style</th>\
+  <th>ABV</th>\
+  <th>Size</th>\
+  <th>Price</th>\
+</tr>\
+</thead>\
+<tbody>"
+
+    for beer in d:
+        table = table + "<tr>"
+        table = table + "<td>" + beer['style'] +"</td>"
+        table = table + "<td>" + beer['type'] +"</td>"
+        table = table + "<td>" + str(beer['abv']) +"</td>"
+        table = table + "<td>" + beer['size'] +"</td>"
+        table = table + "<td>" + beer['price'] +"</td>"
+        table = table + "</tr>"
+
+    table = table +   "</tbody></table>"
+
+    return Response(table)
+
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0")
