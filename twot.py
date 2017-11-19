@@ -1,9 +1,8 @@
 from bs4 import BeautifulSoup
 
 import requests
-import web
 import json
-from flask import Flask
+from flask import Flask, render_template
 from flask import Response
 
 app = Flask(__name__)
@@ -16,6 +15,11 @@ price = [0 for i in range(100)]
 beercount = 0
 allbeers = []
 
+
+
+@app.route("/jinga")
+def template_test():
+    return render_template('template.html', my_string="Wheeeee!", my_list=[0,1,2,3,4,5])
 
 @app.route('/')
 def getBeers():
