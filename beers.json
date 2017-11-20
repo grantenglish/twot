@@ -1,0 +1,296 @@
+[
+    {
+        "abv": "7.0% ABV",
+        "price": "$7.00",
+        "size": "6",
+        "style": "Berliner Weisse",
+        "type": "Ballast Point Sour Wench Blackberry Ale"
+    },
+    {
+        "abv": "8.0% ABV",
+        "price": "$7.00",
+        "size": "12",
+        "style": "American Brown Ale",
+        "type": "Barley And Hops John's Tasty Nuts"
+    },
+    {
+        "abv": "7.0% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "American Stout",
+        "type": "Bell's Cherry Stout"
+    },
+    {
+        "abv": "10.2% ABV",
+        "price": "$7.00",
+        "size": "10",
+        "style": "*Old Ale*",
+        "type": "Bell's Third Coast Old Ale"
+    },
+    {
+        "abv": "8.4% ABV",
+        "price": "$7.00",
+        "size": "6",
+        "style": "Belgian Golden Strong Ale",
+        "type": "Bosteels Kwak"
+    },
+    {
+        "abv": "6.3% ABV",
+        "price": "$7.00",
+        "size": "12",
+        "style": "*Wee Heavy*",
+        "type": "Boulevard Snow And Tell"
+    },
+    {
+        "abv": "8.0% ABV",
+        "price": "$7.00",
+        "size": "8",
+        "style": "Belgian Winter Warmer",
+        "type": "Brewer's Art St. Festivus"
+    },
+    {
+        "abv": "10.0% ABV",
+        "price": "$7.00",
+        "size": "10",
+        "style": "*Imperial Stout*",
+        "type": "Brooklyn Black Chocolate Stout"
+    },
+    {
+        "abv": "4.5% ABV",
+        "price": "$7.00",
+        "size": "12",
+        "style": "*Dry Hopped Sour*",
+        "type": "Burley Oak Sorry Chicky"
+    },
+    {
+        "abv": "6.9% ABV",
+        "price": "$7.00",
+        "size": "12",
+        "style": "Sweet Stout",
+        "type": "Calvert Flapjack Maple Milk Stout"
+    },
+    {
+        "abv": "9.0% ABV",
+        "price": "$7.00",
+        "size": "12",
+        "style": "Double IPA",
+        "type": "Dogfish Head 90 Minute IPA"
+    },
+    {
+        "abv": "4.9% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "Session Sour",
+        "type": "Dogfish Head SeaQuench Ale"
+    },
+    {
+        "abv": "6.6% ABV",
+        "price": "$7.00",
+        "size": "8",
+        "style": "American IPA",
+        "type": "Evolution Hop Globe"
+    },
+    {
+        "abv": "4.7% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "Session IPA",
+        "type": "Founders All Day IPA"
+    },
+    {
+        "abv": "5.3% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "British Brown Ale",
+        "type": "Goose Island Winter Ale"
+    },
+    {
+        "abv": "7.5% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "Strong Bitter",
+        "type": "Heavy Seas Winter Storm"
+    },
+    {
+        "abv": "8.3% ABV",
+        "price": "$7.00",
+        "size": "12",
+        "style": "Double IPA",
+        "type": "Jailbreak Ephemeral Volume VII"
+    },
+    {
+        "abv": "6.4% ABV",
+        "price": "$7.00",
+        "size": "8",
+        "style": "American IPA",
+        "type": "Key End Of The Road"
+    },
+    {
+        "abv": "8.5% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "Double IPA",
+        "type": "Lagunitas Little Sumpin' Extra"
+    },
+    {
+        "abv": "6.2% ABV",
+        "price": "$7.00",
+        "size": "20",
+        "style": "American Pale Ale",
+        "type": "Lagunitas New Dogtown"
+    },
+    {
+        "abv": "4.6% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "International Dark Lager",
+        "type": "Monument City Last Cup"
+    },
+    {
+        "abv": "6.7% ABV",
+        "price": "$7.00",
+        "size": "20",
+        "style": "American IPA",
+        "type": "Ninkasi Total Domination"
+    },
+    {
+        "abv": "4.7% ABV",
+        "price": "$3.50",
+        "size": "16",
+        "style": "Root Beer",
+        "type": "Old Dominion Root Beer"
+    },
+    {
+        "abv": "5.1% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "Blonde Ale",
+        "type": "Peabody Heights Word Is Blonde"
+    },
+    {
+        "abv": "7.5% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "American Wheat Beer",
+        "type": "Red Shedman Cherry Jamboree"
+    },
+    {
+        "abv": "8.0% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "American Pale Ale",
+        "type": "Red Shedman Green Bullet"
+    },
+    {
+        "abv": "5.4% ABV",
+        "price": "$7.00",
+        "size": "8",
+        "style": "Double IPA",
+        "type": "Saranac Permafrost"
+    },
+    {
+        "abv": "6.8% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "*Dunkel Weiss*",
+        "type": "Shiner Holiday Cheer"
+    },
+    {
+        "abv": "10.2% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "*American IPA*",
+        "type": "Sierra Nevada Celebration"
+    },
+    {
+        "abv": "7.0% ABV",
+        "price": "$7.00",
+        "size": "8",
+        "style": "Imperial Stout",
+        "type": "Sierra Nevada Narwhal Imperial Stout"
+    },
+    {
+        "abv": "6.8% ABV",
+        "price": "$7.00",
+        "size": "20",
+        "style": "Nitro Coffee Ale",
+        "type": "Starr Hill Brewery Hop Buzz"
+    },
+    {
+        "abv": "6.8% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "American Porter",
+        "type": "Tall Tales Blue Ox"
+    },
+    {
+        "abv": "9.4% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "American IPA",
+        "type": "Tall Tales Excalibur"
+    },
+    {
+        "abv": "8.4% ABV",
+        "price": "$7.00",
+        "size": "10",
+        "style": "Imperial Stout",
+        "type": "Tall Tales Gingersnap Stout"
+    },
+    {
+        "abv": "10.2% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "American IPA",
+        "type": "Tall Tales Hood"
+    },
+    {
+        "abv": "11.0% ABV",
+        "price": "$7.00",
+        "size": "10",
+        "style": "Belgian Strong Ale",
+        "type": "Tall Tales Paul Bunyan"
+    },
+    {
+        "abv": "5.3% ABV",
+        "price": "$7.00",
+        "size": "10",
+        "style": "American Strong Ale",
+        "type": "Tr\u00f6egs Mad Elf"
+    },
+    {
+        "abv": "9.1% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "German Pils",
+        "type": "Victory Prima Pils"
+    },
+    {
+        "abv": "6.7% ABV",
+        "price": "$7.00",
+        "size": "8",
+        "style": "Imperial Stout",
+        "type": "Victory Storm King"
+    },
+    {
+        "abv": "6.7% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "*American Wheat*",
+        "type": "Victory Winter Cheers"
+    },
+    {
+        "abv": "5.0% ABV",
+        "price": "$7.00",
+        "size": "16",
+        "style": "Belgian Dubbel",
+        "type": "Waredaca Maude"
+    },
+    {
+        "abv": 0,
+        "price": "$7.00",
+        "size": "16",
+        "style": "Common Cider",
+        "type": "Wyndridge Farm Grapefruit Cider"
+    }
+]
