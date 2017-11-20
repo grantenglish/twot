@@ -17,11 +17,11 @@ allbeers = []
 
 
 
-@app.route("/jinga")
-def template_test():
-    return render_template('template.html', my_string="Wheeeee!", my_list=[0,1,2,3,4,5])
-
 @app.route('/')
+def template_test():
+    return render_template('simple.html', title="Wheeeee!", description='description')
+
+@app.route('/get')
 def getBeers():
     global beercount
     r  = requests.get("http://thewhiteoaktavern.com/whats-on-tap")
