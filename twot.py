@@ -13,17 +13,21 @@ style = [0 for i in range(100)]
 size = [0 for i in range(100)]
 price = [0 for i in range(100)]
 beercount = 0
-allbeers = []
+allbeers = {}
 
 
 
 @app.route('/')
 def template_test():
-    return render_template('simple.html', title="Wheeeee!", description='description')
+    global allbeers
+    print(len(allbeers))
+    return render_template('simple.html', title="Wheeeee!", description='description', beers=allbeers)
 
 @app.route('/get')
 def getBeers():
     global beercount
+    global allbeers
+
     r  = requests.get("http://thewhiteoaktavern.com/whats-on-tap")
 
     data = r.text
