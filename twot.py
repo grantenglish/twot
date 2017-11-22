@@ -1,93 +1,62 @@
 from bs4 import BeautifulSoup
-
 import requests
 import json
-from flask import Flask, render_template
-from flask import Response
+from flask import Flask, Response, render_template
 
 app = Flask(__name__)
 
-beercount = 0
 allbeers = []
 
-
-
-@app.route('/template')
-def template_test():
-    global allbeers
-    print(allbeers)
-    return render_template('simple.html', title="Wheeeee!", description='description', beers=allbeers)
-
-@app.route('/')
+@app.route('/get')
 def getBeers():
-    global beercount
     global allbeers
 
-    r  = requests.get("http://thewhiteoaktavern.com/whats-on-tap")
+    req  = requests.get("http://thewhiteoaktavern.com/whats-on-tap")
+    soup = BeautifulSoup(req.text, "html.parser")
 
-    data = r.text
 
-    soup = BeautifulSoup(data, "html.parser")
-
-    beer = [0 for i in range(100)]
-    abv = [0 for i in range(100)]
-    style = [0 for i in range(100)]
-    size = [0 for i in range(100)]
-    price = [0 for i in range(100)]
-
-    index = 0
+    beer = []
     for link in soup.find_all("a", "beername"):
-        beer[index] = link.text.strip()
-        index = index + 1
+        beer.append(link.text.strip())
 
-    index= 0
+    abv = []
     for abvelement in soup.find_all("span", "abv"):
-        abv[index] = abvelement.text
-        index = index + 1
+        abv.append(abvelement.text)
 
-    index = 0
+    style = []
     for styleelement in soup.find_all("span", "style"):
-        style[index] = styleelement.text
-        index = index + 1
+        style.append(styleelement.text)
 
-    index = 0
+    size = []
+    price = []
     for sizeprice in soup.find_all("span", "sizeprice"):
         things = sizeprice.text.split()
-        size[index] = things[0]
-        price[index] = things[2]
-        index = index + 1
+        size.append(things[0])
+        price.append(things[2])
 
-    beercount = index
-    for i in range(0 , beercount):
+    allbeers = []
+    beercount = len(beer)
+    for i in range(0 , beercount-1):
         j = {'type': beer[i], 'style':style[i],'abv':abv[i],'size':size[i],'price':price[i]}
         allbeers.append(j)
 
     text = json.dumps(allbeers,sort_keys=True,indent=4, separators=(',', ': '))
     return Response(text,  mimetype='application/json')
 
-@app.route('/file')
+@app.route('/')
 def fromFile():
+    global allbeers
     with open('beers.json') as json_data:
-        d = json.load(json_data)
-        print(d)
+        allbeers = json.load(json_data)
 
-    text = json.dumps(d, sort_keys=True, indent=4, separators=(',', ': '))
+    print(allbeers)
+    text = json.dumps(allbeers, sort_keys=True, indent=4, separators=(',', ': '))
     return Response(text, mimetype='application/json')
 
 
 @app.route('/table')
 def beersTable():
-    global beercount
-    return render_template('simple.html', title="Wheeeee!", description='description', beers=allbeers)
-
-@app.route('/tablefile')
-def beersFile():
-    global beercount
-
-    with open('beers.json') as json_data:
-        d = json.load(json_data)
-
-    return render_template('simple.html', title="Wheeeee!", description='description', beers=d)
+    return render_template('simple.html', title="Beers", description='Beers at the Tavern', beers=allbeers)
 
 
 if __name__ == "__main__":
