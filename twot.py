@@ -14,7 +14,6 @@ def getBeers():
     req  = requests.get("http://thewhiteoaktavern.com/whats-on-tap")
     soup = BeautifulSoup(req.text, "html.parser")
 
-
     beer = []
     for link in soup.find_all("a", "beername"):
         beer.append(link.text.strip())
