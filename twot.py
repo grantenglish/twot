@@ -9,9 +9,15 @@ allBeers = []
 
 
 @app.route('/twot.png', methods=['GET'])
-def servefile():
-    print( "servefile")
+def servePNG():
+    print( "servepng")
     return send_from_directory( '', 'twot.png')
+
+
+@app.route('/styles.css', methods=['GET'])
+def serveCSS():
+    print( "servecss")
+    return send_from_directory( '', 'styles.css')
 
 
 @app.route('/get')
