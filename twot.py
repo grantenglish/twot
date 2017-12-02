@@ -10,50 +10,49 @@ allBeers = []
 
 @app.route('/twot.png', methods=['GET'])
 def servePNG():
-    print( "servepng")
-    return send_from_directory( '', 'twot.png')
+    print("servepng")
+    return send_from_directory('', 'twot.png')
 
 
 @app.route('/styles.css', methods=['GET'])
 def serveCSS():
-    print( "servecss")
-    return send_from_directory( '', 'styles.css')
+    print("servecss")
+    return send_from_directory('', 'styles.css')
 
 
 @app.route('/get')
 def getBeers():
     global allBeers
 
-    req  = requests.get("http://thewhiteoaktavern.com/whats-on-tap")
+    req = requests.get("http://thewhiteoaktavern.com/whats-on-tap")
     soup = BeautifulSoup(req.text, "html.parser")
 
-    beer = []
-    for link in soup.find_all("a", "beername"):
-        beer.append(link.text.strip())
+    # save the last request
+    f = open("request.txt", "w")
+    f.write(req.text)
+    f.close()
 
-    abv = []
-    for abvelement in soup.find_all("span", "abv"):
-        abv.append(abvelement.text)
+    for beer in soup.find_all(attrs={'class': "beer-column"}):
+        name = (beer.find("a", "beername")).text.strip()  # strip laft and right
 
-    style = []
-    for styleelement in soup.find_all("span", "style"):
-        style.append(styleelement.text)
+        abv = "0"
+        abvs = beer.find_all("span", "abv")
+        if len(abvs) > 0:  # apparently root beer gets put on tap with empty abv
+            txt = beer.find("span", "abv")
+            abv = txt.text.split("%")[0]  # pull the number out
 
-    size = []
-    price = []
-    for sizeprice in soup.find_all("span", "sizeprice"):
-        things = sizeprice.text.split()
-        size.append(things[0])
-        price.append(things[2])
+        style = beer.find("span", "style").text
 
-    allBeers = []
-    beercount = len(beer)
-    for i in range(0 , beercount-1):
-        j = {'type': beer[i], 'style':style[i],'abv':abv[i],'size':size[i],'price':price[i]}
+        sizePrice = beer.find("span", "sizeprice")  # splut and pull the two numbers out
+        things = sizePrice.text.split()
+        size = things[0]
+        price = things[2]
+        j = {'type': name, 'style': style, 'abv': abv, 'size': size, 'price': price}
         allBeers.append(j)
 
     text = json.dumps(allBeers, sort_keys=True, indent=4, separators=(',', ': '))
-    return Response(text,  mimetype='application/json')
+    return Response(text, mimetype='application/json')
+
 
 @app.route('/')
 def fromFile():
