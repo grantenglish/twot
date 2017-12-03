@@ -24,65 +24,58 @@ def serveCSS():
 def getBeers():
     global allBeers
 
+    allBeers.clear() #start over
+
     req = requests.get("http://thewhiteoaktavern.com/whats-on-tap")
-    soup = BeautifulSoup(req.text, "html.parser")
+    #soup = BeautifulSoup(req.text, "html.parser")
 
     # save the last request
     f = open("request.txt", "w")
     f.write(req.text)
     f.close()
 
-    #pull the data out of the response
-    for beer in soup.find_all(attrs={'class': "beer-column"}):
-        name = (beer.find("a", "beername")).text.strip()  # strip laft and right
-
-        abv = "0"
-        abvs = beer.find_all("span", "abv")
-        if len(abvs) > 0:  # apparently root beer gets put on tap with empty abv
-            txt = beer.find("span", "abv")
-            abv = txt.text.split("%")[0]  # pull the number out
-
-        style = beer.find("span", "style").text
-
-        sizePrice = beer.find("span", "sizeprice")  # split and pull the two numbers out
-        things = sizePrice.text.split()
-        size = things[0]
-        price = things[2]
-        j = {'type': name, 'style': style, 'abv': abv, 'size': size, 'price': price}
-        allBeers.append(j)
+    extract(req.text)
 
     text = json.dumps(allBeers, sort_keys=True, indent=4, separators=(',', ': '))
     return Response(text, mimetype='application/json')
 
+def extract(htmlText):
+    soup = BeautifulSoup(htmlText, "html.parser")
 
+    for beer in soup.find_all(attrs={'class': "beer-column"}):
+         name = (beer.find("a", "beername")).text.strip()  # strip laft and right
+
+         abv = "0"
+         abvs = beer.find_all("span", "abv")
+         if len(abvs) > 0:  # apparently root beer gets put on tap with empty abv
+             txt = beer.find("span", "abv")
+             abv = txt.text.split("%")[0]  # pull the number out
+
+         style = beer.find("span", "style").text
+
+         sizePrice = beer.find("span", "sizeprice")  # split and pull the two numbers out
+         things = sizePrice.text.split()
+         size = things[0]
+         price = things[2]
+         j = {'type': name, 'style': style, 'abv': abv, 'size': size, 'price': price}
+         allBeers.append(j)
+
+#
+# really here just for test, cut and paste of above #TODO refactor to eliminate
+#
 @app.route('/')
 def fromFile():
     global allBeers
+
+    allBeers.clear() #start over
+
     f = open('request.txt', "r")
     reqText = f.read()
     f.close()
 
-    soup = BeautifulSoup(reqText, "html.parser")
+    extract(reqText)
 
-    for beer in soup.find_all(attrs={'class': "beer-column"}):
-        name=(beer.find("a", "beername")).text.strip()
-
-        abv = "0"
-        abvs = beer.find_all("span", "abv")
-        if len(abvs) > 0:
-            abv = beer.find("span", "abv")
-            abv = abv.text
-
-        style = beer.find("span", "style").text
-
-        sizePrice = beer.find("span", "sizeprice")
-        things = sizePrice.text.split()
-        size = things[0]
-        price = things[2]
-        j = {'type': name, 'style': style, 'abv': abv, 'size': size, 'price': price}
-        allBeers.append(j)
-
-        text = json.dumps(allBeers, sort_keys=True, indent=4, separators=(',', ': '))
+    text = json.dumps(allBeers, sort_keys=True, indent=4, separators=(',', ': '))
 
     print(text)
 
