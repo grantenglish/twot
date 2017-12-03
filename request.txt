@@ -2713,7 +2713,7 @@ Bar, Dining Room & Beer Garden</p>
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername  recent " href="https://www.taphunter.com/beer/stone-enjoy-by-122517-unfiltered-ipa/5189497679249408" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/stone-enjoy-by-122517-unfiltered-ipa/5189497679249408" target="_blank">
 		
 		
 			Stone Enjoy By 12.25.17 Unfiltered IPA
