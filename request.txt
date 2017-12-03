@@ -1,0 +1,3687 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>What&#8217;s On Tap</title>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+ 
+
+<link href="http://thewhiteoaktavern.com/wp-content/themes/eatery/style.css" rel="stylesheet" type="text/css" />
+<meta property="og:title" content="What&#039;s On Tap" />
+<meta property="og:description" content="" />
+
+<!-- This site is optimized with the Yoast SEO plugin v3.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://thewhiteoaktavern.com/whats-on-tap/" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="What&#039;s On Tap - The White Oak Tavern" />
+<meta name="twitter:site" content="@whiteoaktavern" />
+<meta name="twitter:image" content="http://thewhiteoaktavern.com/wp-content/uploads/2016/06/TWOT-SummerNoBG.png" />
+<meta name="twitter:creator" content="@whiteoaktavern" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="alternate" type="application/rss+xml" title="The White Oak Tavern &raquo; Feed" href="http://thewhiteoaktavern.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The White Oak Tavern &raquo; Comments Feed" href="http://thewhiteoaktavern.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The White Oak Tavern &raquo; What&#8217;s On Tap Comments Feed" href="http://thewhiteoaktavern.com/whats-on-tap/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/thewhiteoaktavern.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.12"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='superfish-css-css'  href='http://thewhiteoaktavern.com/wp-content/themes/eatery/css/superfish.css?ver=1.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='imageCSS-css'  href='http://thewhiteoaktavern.com/wp-content/themes/eatery/css/prettyPhoto.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='nivoDefault-css'  href='http://thewhiteoaktavern.com/wp-content/themes/eatery/css/nivo/default/default.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nivoSlider-css'  href='http://thewhiteoaktavern.com/wp-content/themes/eatery/css/nivo-slider.css?ver=3.1' type='text/css' media='all' />
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='1140-ie-9-css'  href='http://thewhiteoaktavern.com/wp-content/themes/eatery/css/ie.css?ver=1.0.0' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel='stylesheet' id='ie-7-css'  href='http://thewhiteoaktavern.com/wp-content/themes/eatery/css/ie7.css?ver=1.0.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='1140-css-css'  href='http://thewhiteoaktavern.com/wp-content/themes/eatery/css/1140.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='1140-responsive-css-css'  href='http://thewhiteoaktavern.com/wp-content/themes/eatery/css/1140-responsive.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rhc-print-css-css'  href='http://thewhiteoaktavern.com/wp-content/plugins/calendarize-it/css/print.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='calendarizeit-css'  href='http://thewhiteoaktavern.com/wp-content/plugins/calendarize-it/css/frontend.min.css?ver=4.0.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rhc-last-minue-css'  href='http://thewhiteoaktavern.com/wp-content/plugins/calendarize-it/css/last_minute_fixes.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='seedredux-google-fonts-seed_cspv4-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A700%2C400&#038;ver=1477686667' type='text/css' media='all' />
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-content/plugins/mailchimp-widget/js/mailchimp-widget-min.js?ver=4.5.12'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-content/themes/eatery/js/jqsf.js?ver=4.5.12'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-content/themes/eatery/js/superfish.js?ver=1.4.8'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-content/themes/eatery/js/window.load.js?ver=4.5.12'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-content/plugins/calendarize-it/js/bootstrap.min.js?ver=3.0.0'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-content/plugins/calendarize-it/js/bootstrap-select.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/wp-a11y.min.js?ver=4.5.12'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No search results.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-content/plugins/calendarize-it/js/deprecated.js?ver=bundled-jquery-ui'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var RHC = {"ajaxurl":"http:\/\/thewhiteoaktavern.com\/","mobile_width":"480","last_modified":"9568dfd941143d1890996dfbdda793bc","tooltip_details":[],"visibility_check":"","gmt_offset":"-5","disable_event_link":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-content/plugins/calendarize-it/js/frontend.min.js?ver=4.3.4.1'></script>
+<link rel='https://api.w.org/' href='http://thewhiteoaktavern.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thewhiteoaktavern.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thewhiteoaktavern.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.12" />
+<link rel='shortlink' href='http://thewhiteoaktavern.com/?p=166' />
+<link rel="alternate" type="application/json+oembed" href="http://thewhiteoaktavern.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthewhiteoaktavern.com%2Fwhats-on-tap%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://thewhiteoaktavern.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthewhiteoaktavern.com%2Fwhats-on-tap%2F&#038;format=xml" />
+<meta property="og:site_name" content="The White Oak Tavern" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="http://thewhiteoaktavern.com/whats-on-tap/" />
+<meta property="og:title" content="What&#8217;s On Tap" />
+<link rel="icon" href="http://thewhiteoaktavern.com/wp-content/uploads/2016/06/cropped-TWOT-SummerNoBG-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://thewhiteoaktavern.com/wp-content/uploads/2016/06/cropped-TWOT-SummerNoBG-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://thewhiteoaktavern.com/wp-content/uploads/2016/06/cropped-TWOT-SummerNoBG-1-180x180.png" />
+<meta name="msapplication-TileImage" content="http://thewhiteoaktavern.com/wp-content/uploads/2016/06/cropped-TWOT-SummerNoBG-1-270x270.png" />
+<style id="righthere_css" type="text/css">
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+
+/* START rhc custom css */
+
+/* END rhc custom css */
+</style><link rel="alternate" type="application/rss+xml" href="http://thewhiteoaktavern.com/feed/" title="The White Oak Tavern latest posts" />
+<link rel="alternate" type="application/rss+xml" href="http://thewhiteoaktavern.com/comments/feed/" title="The White Oak Tavern latest comments" />
+<link rel="pingback" href="http://thewhiteoaktavern.com/xmlrpc.php" />
+
+<!-- Responsive JS -->
+<!--[if lt IE 9]>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+<!-- END Responsive JS -->
+
+<style type="text/css">
+/* CUSTOM COLORS */
+div.message {
+	background-color: #f0ede2;
+	border-color:#ffffff;
+	color:#333;
+}
+
+div.message, div.message h4, div.message ol li{
+	color:#5a3631;
+}
+
+/* GENERAL */
+
+#wp-calendar tbody .pad:hover { background:none} 
+
+/* Off white  */
+
+body{background-color:#f0ede2;}
+
+/* Bright white  *****************/
+
+#footer, #inner-content {background-color:#ffffff;}
+
+/* Background Color  *****************/
+
+#sidebar {background-color:#ffffff;}
+#sidebar .soc a:hover {background-color:#ffffff !important;}
+#sidebar .side-widget a:hover {color:#ffffff;}
+#sidebar .side-widget ul li a:hover {background-color:#5a3631;  color:#ffffff;}  /* SIDE BG & SIDE CONTRAST */
+#wp-calendar tbody td:hover { background: #ffffff ;} 		
+#wp-calendar tbody td {  border: 1px solid #ffffff; }
+#wp-calendar tbody .pad {background:#ffffff;}
+#sidebar-menu li ul li {border-top:2px solid #ffffff;  border-style: dotted dashed;}
+#sidebar-menu li ul{
+		border: 1px solid #ffffff;
+-webkit-border-bottom-right-radius: 5px;
+ -webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	 -moz-border-radius-bottomleft: 5px;
+		border-bottom-right-radius: 5px;
+		 border-bottom-left-radius: 5px;
+-webkit-box-shadow:0 0 4px rgba(0, 0, 0, 0.1);
+   -moz-box-shadow:0 0 4px rgba(0, 0, 0, 0.1);
+		box-shadow:0 0 4px rgba(0, 0, 0, 0.1);
+}
+
+#sidebar-menu li a:hover {background:#ffffff;}
+
+/*.dropcap1{background-color: #ffffff;}*/
+
+#form-wrapper .sendbtn{border-color:#ffffff;}
+
+/* Contrasting Color  *****************/
+
+#sidebar h1, #sidebar h2, #sidebar h3, #sidebar h4, #sidebar h5, #sidebar h6, 
+#sidebar h1 a, #sidebar h2 a, #sidebar h3 a, #sidebar h4 a, #sidebar h5 a, #sidebar h6 a,
+#sidebar p a, #sidebar a{color: #5a3631;}
+#sidebar h1 a:hover, #sidebar h2 a:hover, #sidebar h3 a:hover, #sidebar h4 a:hover, 
+#sidebar h5 a:hover, #sidebar h6 a:hover, #sidebar p a:hover, #sidebar #older-posts a:hover, 
+#sidebar #newer-posts a:hover{text-decoration:none; color:#ffffff ;background-color: #5a3631;}
+p a, #older-posts a, #newer-posts a{color: #5a3631;}
+#sidebar p {color:#5a3631;}
+#sidebar .tagcloud a:hover {background-color:#5a3631 ;}
+#sidebar-menu li a, #sidebar .side-widget a {color:#5a3631;}
+#sidebar .side-widget ul li a {border-color:#5a3631; border-width:1px} 
+#sidebar-menu li a:hover {color:#000000;}
+#sidebar #wp-calendar tbody td a:link, #sidebar #wp-calendar tbody td a {color:#5a3631; font-weight:bold; text-decoration:underline }
+#wp-calendar thead th, #wp-calendar caption { color: #5a3631;}
+#wp-calendar tbody { color: #5a3631; }
+
+/* Tint  *****************/
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, p a:hover, #older-posts a:hover, #newer-posts a:hover{text-decoration:none; color:#5a3631 ;background-color: #cfcfcf;}
+#sidebar .tagcloud a{background-color: #cfcfcf;}		
+#wp-calendar tbody td { background: #cfcfcf;}		
+#form-wrapper .sendbtn:hover{background-color: #cfcfcf;}
+#form-wrapper .sendbtn{background-color:#cfcfcf;}
+#sidebar-menu li ul {background-color:#cfcfcf;}
+blockquote p{color: #5a3631;}
+.dropcap1shade{background-color:#5a3631;}
+.dropcap2shade{color:#5a3631; }
+.highlight.dark{background-color: echo ;}
+blockquote{border-top-color:#cfcfcf; }
+.ruler{border-color:#cfcfcf;}
+body > div#top-bar {
+	background: #cfcfcf;
+}
+.mobile-menu, .mobile-menu:active,  .mobile-menu:hover {
+	background: #cfcfcf;
+}
+#sidebar .side-widget.mobile {border-color:#cfcfcf;}
+.menu_item_wrapper, h3.menu-title, h4.menu-title {border-color:#f0ede2;}
+
+/* Text, Headings etc.  *****************/
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, p a, a{color: #5a3631;}
+img.alignleft, img.alignright, img.aligncenter {
+	border-color:#f0ede2}
+.menu_item_image_sm img, .search_image_sm {
+	border-color:#f0ede2}
+.wp-caption {
+	font-family:Arial, Helvetica, sans-serif;
+	border-color:#f0ede2;
+	background-color:#ffffff;
+}
+p.wp-caption-text {background-color:#f0ede2;}
+
+/* END CUSTOM COLORS */	
+</style>
+
+<!-- THEME OPTION SETTINGS | CSS --> 
+<style type="text/css"> 
+ /* Custom Social Media Icon */
+.googleplus, .googlemaps, .linkedin, .meetup, .phone, .pinterest, .rss, .sharethis, .tripadvisor, .tumblr, .twitter, .urbanspoon, .vimeo, .yelp, .youtube, .bookmark, .email, .facebook, .foursquare, .instagram{
+background-image: url(http://thewhiteoaktavern.com/wp-content/themes/eatery/images/soc_2.png);}
+.soc a, soc a:hover{ opacity:1.0 ;}
+
+/* CUSTOM BG HEADER */
+#header-bg{
+	background-image:url(http://thewhiteoaktavern.com/wp-content/uploads/2016/11/header-bg.jpg);}
+
+/* Responsive CSS */
+@media only screen and (max-width: 1280px) {
+	#header-bg {
+		background:url(http://thewhiteoaktavern.com/wp-content/uploads/2016/11/header-bg-sm.jpg);
+		background-position:top center;
+		background-repeat:repeat-x;
+		}				
+		#main-content {
+			margin-top:270px;
+		}
+}
+@media handheld, only screen and (max-width: 767px) {
+	#main-content{
+		margin: 0;
+	}
+}
+        /* CUSTOM background Tile */
+        body {background-image:url(http://thewhiteoaktavern.com/wp-content/uploads/2014/03/DSC0168-1024x680.jpg);
+					background-repeat:no-repeat;
+			background-attachment:fixed;
+			-webkit-background-size: cover; /* For WebKit*/
+			-moz-background-size: cover;    /* Mozilla*/
+			-o-background-size: cover;      /* Opera*/
+			background-size: cover;         /* Generic*/
+				}
+
+</style>
+<link href="http://thewhiteoaktavern.com/wp-content/themes/eatery/css/social_media.css" rel="stylesheet" type="text/css" />
+        
+<!-- Custom Google H1 Font -->
+<link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css' />
+<style type="text/css">h1, h2, h3, h4, h5, #sidebar-menu li a {font-family: 'Merriweather', Georgia,Times,serif;} </style>
+
+<!-- Custom Google P Font -->
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css' />
+<style type="text/css">body, p, li, #sidebar-menu li ul li a, .dropcap1, .dropcap2 {font-family: 'Droid Sans', Helvetica,Arial,sans-serif;} </style>
+
+<!-- Custom Heading Sizes -->
+
+<style type="text/css">
+p{font-size:18 !important ;}
+body{font-size:18 !important ;}
+
+</style>
+<!-- END Custom Heading Sizes -->
+
+</head>
+
+<body class="page page-id-166 page-template-default">
+ 
+<!--[if lte IE 8]>
+<style type="text/css" media="screen">body {background:none !important;}</style>
+<img src="http://thewhiteoaktavern.com/wp-content/uploads/2014/03/DSC0168-1024x680.jpg" class="ie87-bg">
+<![endif]-->
+
+<!-- MOBILE MENU -->
+<div id="top-bar"><div class="mobile-menu"><!--span-->
+<form method="get" action="http://thewhiteoaktavern.com/wp-content/themes/eatery/nav.php" >
+ <div class="menu-mobile-container"><select name="-Menu-"><option value="http://thewhiteoaktavern.com/" id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314">Home</option>
+<option value="http://thewhiteoaktavern.com/menus/" id="menu-item-315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-315">Fall Menus</option>
+<option value="http://thewhiteoaktavern.com/events-calendar/" id="menu-item-1365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365">White Oak Events</option>
+<option value="http://thewhiteoaktavern.com/whats-on-tap/" id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-166 current_page_item menu-item-316" selected="selected" >What&#8217;s On Tap</option>
+<option value="http://thewhiteoaktavern.com/live-entertainment/" id="menu-item-1263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1263">Live Entertainment</option>
+<option value="http://thewhiteoaktavern.com/about-us/" id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317">About Us</option>
+</select></div> <input class="mob-sub" type="submit" value="Go" />
+</form>
+<!--/span--></div></div>
+
+<div id="wrapper">
+	<div id="header-bg"></div>
+<div class="container">
+<div class="row">        
+    <!-- BEGIN sidebar -->
+<div id="sidebar-container" class="fourcol">
+    <div id="sidebar">
+        <div id="sidebarBorder">
+            <div id="logo"><a href='http://thewhiteoaktavern.com'><img src='http://thewhiteoaktavern.com/wp-content/uploads/2016/10/0735-logo.png' alt='The White Oak Tavern' /></a></div>
+            <!-- ABOVE BEGIN--> <!-- ABOVE END-->
+			<div id="the-side-menu"><div class="menu-twot-menu-container"><ul id="sidebar-menu" class="sf-menu sf-vertical"><li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://thewhiteoaktavern.com/">Home</a></li>
+<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://thewhiteoaktavern.com/about-us/">About Us</a></li>
+<li id="menu-item-510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-510"><a href="http://thewhiteoaktavern.com/menus/">Fall Menus</a>
+<ul class="sub-menu">
+	<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="http://thewhiteoaktavern.com/brunch/">Brunch</a></li>
+	<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="http://thewhiteoaktavern.com/dinner/">Dinner</a></li>
+	<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="http://thewhiteoaktavern.com/desserts/">Desserts</a></li>
+</ul>
+</li>
+<li id="menu-item-1364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1364"><a href="http://thewhiteoaktavern.com/events-calendar/">White Oak Events</a></li>
+<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-166 current_page_item menu-item-168"><a href="http://thewhiteoaktavern.com/whats-on-tap/">What&#8217;s On Tap</a></li>
+<li id="menu-item-1262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1262"><a href="http://thewhiteoaktavern.com/live-entertainment/">Live Entertainment</a></li>
+</ul></div><br class="clear" /></div>          
+            <!-- BELOW BEGIN--><div class='textCenter' ><div class="side-widget below"><h2 class="sidebar-widget-title">Address</h2><div class="textwidget"><p>Enchanted Forest Shopping Center<br />
+10030 Baltimore National Pike<br />
+Ellicott City MD, 21042<br />
+(410) 680-8974</p>
+</div></div><!--br class="clear"--></div><div class='textCenter' ><div class="side-widget below"><h2 class="sidebar-widget-title">Hours of Operation</h2><div class="textwidget"><p>Monday - Thursday 11am-11pm (Kitchen Closes @ 10pm)<br />
+Friday 11am-1am<br />
+Saturday 10am-1am<br />
+Sunday 10am-10pm<br />
+Happy Hour 3pm-7pm Mon-Fri<br />
+ALL DAY ON WEDNESDAYS<br />
+Serving Happy Hour EVERYWHERE<br />
+Bar, Dining Room & Beer Garden</p>
+</div></div><!--br class="clear"--></div><div class="side-widget below"><h2 class="sidebar-widget-title">Mon-Fri 11am-3pm Only</h2>			<div class="textwidget"><a class="eat24" href="http://eat24hrs.com/restaurants/order2/index.php?id=86266" title="Order Online with EAT24"><img src="http://eat24hrs.com/buttons/images/v2/assets/btn_e24_brand-big_red268_normal.png" alt="Order Online with EAT24"></a>
+</div>
+		</div><!--br class="clear"--><div class="side-widget below"><h2 class="sidebar-widget-title">Join our mailing list!</h2>	
+				<form action="/whats-on-tap/" id="ns_widget_mailchimp_form-2" method="post">
+											
+					<label>First Name :<input type="text" name="ns_widget_mailchimp_first_name" /></label>
+					<br />
+						
+					<label>Last Name :<input type="text" name="ns_widget_mailchimp_last_name" /></label>
+					<br />
+											<input type="hidden" name="ns_mc_number" value="2" />
+						<label for="ns_widget_mailchimp-email-2">Email Address :</label>
+						<input id="ns_widget_mailchimp-email-2" type="text" name="ns_widget_mailchimp_email" />
+						<input class="button" type="submit" name="Join now!" value="Join now!" />
+					</form>
+						<script>jQuery('#ns_widget_mailchimp_form-2').ns_mc_widget({"url" : "/index.php", "cookie_id" : "ns_widget_mailchimp-2", "cookie_value" : "ce009e4226a57e8f9d5af22c5ec7266a", "loader_graphic" : "http://thewhiteoaktavern.com/wp-content/plugins/mailchimp-widget/images/ajax-loader.gif"}); </script>
+				</div><!--br class="clear"-->	<!-- BELOW END-->
+            <!-- MOBILE BEGIN--><div class="side-widget mobile"><h2 class="sidebar-widget-title mobile">Mobile</h2><div class="menu-mobile-container"><ul id="menu-mobile-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314"><a href="http://thewhiteoaktavern.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-315"><a href="http://thewhiteoaktavern.com/menus/">Fall Menus</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365"><a href="http://thewhiteoaktavern.com/events-calendar/">White Oak Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-166 current_page_item menu-item-316"><a href="http://thewhiteoaktavern.com/whats-on-tap/">What&#8217;s On Tap</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1263"><a href="http://thewhiteoaktavern.com/live-entertainment/">Live Entertainment</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="http://thewhiteoaktavern.com/about-us/">About Us</a></li>
+</ul></div></div><div class='textCenter' ><div class="side-widget mobile"><h2 class="sidebar-widget-title mobile">Address</h2><div class="textwidget"><p>Enchanted Forest Shopping Center<br />
+10030 Baltimore National Pike<br />
+Ellicott City MD, 21042<br />
+(410) 680-8974</p>
+</div></div></div><div class='textCenter' ><div class="side-widget mobile"><h2 class="sidebar-widget-title mobile">Hours of Operation</h2><div class="textwidget"><p>Monday - Thursday 11am-11pm<br />
+(Kitchen Closes @ 10pm)<br />
+Friday 11am-1am<br />
+Saturday 10am-1am<br />
+Sunday 10am-10pm<br />
+Happy Hour 3pm-7pm Mon-Fri<br />
+ALL DAY ON WEDNESDAYS<br />
+Serving Happy Hour EVERYWHERE<br />
+Bar, Dining Room & Beer Garden</p>
+</div></div></div><div class="side-widget mobile"><h2 class="sidebar-widget-title mobile">Join our mailing list!</h2>	
+				<form action="/whats-on-tap/" id="ns_widget_mailchimp_form-3" method="post">
+											
+					<label>First Name :<input type="text" name="ns_widget_mailchimp_first_name" /></label>
+					<br />
+						
+					<label>Last Name :<input type="text" name="ns_widget_mailchimp_last_name" /></label>
+					<br />
+											<input type="hidden" name="ns_mc_number" value="3" />
+						<label for="ns_widget_mailchimp-email-3">Email Address :</label>
+						<input id="ns_widget_mailchimp-email-3" type="text" name="ns_widget_mailchimp_email" />
+						<input class="button" type="submit" name="Join now!" value="Join now!" />
+					</form>
+						<script>jQuery('#ns_widget_mailchimp_form-3').ns_mc_widget({"url" : "/index.php", "cookie_id" : "ns_widget_mailchimp-3", "cookie_value" : "ce009e4226a57e8f9d5af22c5ec7266a", "loader_graphic" : "http://thewhiteoaktavern.com/wp-content/plugins/mailchimp-widget/images/ajax-loader.gif"}); </script>
+				</div>	<!-- MOBILE END-->
+            <div class="side-widget below soc"><div class="textwidget"><a href="https://facebook.com/thewhiteoaktavern"  class="facebook"></a><a href="http://twitter.com/whiteoaktavern"  class="twitter"></a><a href="https://www.google.com/maps/place/The+White+Oak+Tavern/@39.281405,-76.856955,17z/data=!3m1!4b1!4m2!3m1!1s0x89c821b3eeb626b9:0x1f20baa8ffeca08f"  class="googlemaps"></a><a href="mailto:contact@thewhiteoaktavern.com"  class="email"></a><a href="tel:+1-410-680-8974"  class="phone"></a></div><br class="clear" /></div>        </div>
+    </div>
+</div>
+<!-- END sidebar -->    <div class="eightcol last">
+
+    <div id="main-content">
+        <div id="inner-content">
+             
+           		<h1 class="page-title">What&#8217;s On Tap</h1>
+                <hr class="headings">
+            	
+
+<style type="text/css">
+	#taphunter {
+		background-color: #F4F0E5;
+	}
+	#taphunter *
+	{
+		font-size: 14px;
+		font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+		background-color: #F4F0E5;
+		color: #525252;
+	}
+	#taphunter h2
+	{
+		font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+		font-weight: bold;
+		font-size: 16px;
+		margin-bottom: 0pt;
+	}
+	#taphunter a, #taphunter a:hover, #taphunter a:visited, #taphunter a:active {
+		color: #323232;
+	}
+	#taphunter .bold {
+		font-weight: bold;
+		font-size: 16px;
+	}
+	#taphunter .beername {
+		font-size: 18px;
+	}
+	#taphunter .updatedate
+	{
+		font-size: 12px;
+	}
+	#taphunter table tr th
+	{
+		text-align: left;
+		padding: 3px;
+	}
+	#taphunter table tr td
+	{
+		vertical-align: top;
+		padding: 3px;
+		margin: 3px;
+	}
+	#taphunter .heading {
+		color: #798540;
+	}
+	#taphunter .recent {
+		color: #798540;
+		font-weight: bold;
+	}
+	#taphunter .brewerylogo {
+		width: 50px;
+		min-width: 25px;
+		margin-left: 5px;
+	}
+	#taphunter .taphunterlogo {
+		width: 45px;
+	}
+</style>
+
+
+
+
+<div id="taphunter" style="width: autopx;">
+	
+	
+	<div style="width: 100%">
+		<div style="float: right;">
+			
+			<span class="greenbeers updatedate recent">Green beers have been added in the last 48 hours.</span>
+		</div>
+		<h2>
+			
+				
+					
+						Current
+					
+				
+				
+					Tap/Cask
+				
+				List
+				(42)
+			
+		</h2>
+	</div>
+	<table border="0" width="100%">
+		<tr class="linerow">
+			<td colspan="3">
+				<hr />
+			</td>
+		</tr>
+
+		
+		
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/OjAA2KIkKwK2PV0YQD8HogFHETSxfasDBRiWj4NulqKsiLOC_aoYrTOs0P1KzcmcIabVY3Y4e-HlDSy_IKU7YiqsZFrvJA=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/allagash-confluence/56007" target="_blank">
+		
+		
+			Allagash Confluence
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">7.6% ABV</span>
+		
+		
+		
+			<span class="style">Mixed-Fermentation Sour Beer</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							6 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Allagash Confluence Ale is created with a mixed fermentation; utilizing our house primary Belgian style yeast in combination with our proprietary Brettanomyces strain. The two yeast strains work in tandem creating a marriage between spice and fruit flavors that ultimately leave a lingering silky mouth feel.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Allagash Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/bTTbGYKJOucX6ITVPz-hVrTs5zDgrEvuivyTQI9NUQaa_Ji_qJVRVdpChSDYIUDhhirZ9DIjFtucZw_FieFb5vXovuDapg=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/ballast-point-peanut-butter-victory-at-sea/6253732589469696" target="_blank">
+		
+		
+			Ballast Point Peanut Butter Victory At Sea
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">10.0% ABV</span>
+		
+		
+		
+			<span class="style">*Imperial Stout*</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">This Peanut Butter Victory at Sea is a festive take on our popular Imperial Porter. We took our trademark robust porter brewed with Caffe Calabria coffee and vanilla and added a dose of peanut butter. The trio of flavors play perfectly on your palate.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Ballast Point Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/7sfbPS9dC6vgkCWKj0FojjHKXNDGdrLaLiPyew8yr397yo0zWIL7iK1yUMAhF2WNECqy4ncWCpBGxDzQKhfCuH13c2tzpw=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/barley-and-hops-mark-it-zero-fanboy/6594398661640192" target="_blank">
+		
+		
+			Barley And Hops Mark It Zero Fanboy
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">7.0% ABV</span>
+		
+		
+		
+			<span class="style">American IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							12 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A Non-New England, West Coast Rye IPABrewed in response to the hazy, crazy trend, this is NOT a beer you have to strain or chew to enjoy</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Barley And Hops Grill &amp; Microbrewery</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ltkyjcDtaKJOzv2BOdS4q9qIQMxh-w1p2aiytPeLvbqJq6L1iGvIZq4eh4x-h7aT1zYXSM5w0ys5hVx3Rt9WxRVEx-1vXA8=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/bells-third-coast-old-ale/6389361684774912" target="_blank">
+		
+		
+			Bell&#39;s Third Coast Old Ale
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">10.2% ABV</span>
+		
+		
+		
+			<span class="style">*Old Ale*</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							10 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A barley wine with deep amber color. The brandy of ales, this beer has vintage character and will mature in the bottle at cellar temperature for years.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Bell&#39;s Brewery</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/WP4HRjylUajsX0yFkWQdJRfCh_taiaMGhaHTtDlQQzTjlPs_9mFsk4FlHN70YgD5FtnF4yMfBLXUIN2Q3UyDsO13Uewn=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/black-flag-jungle-juice/6717185736835072" target="_blank">
+		
+		
+			Black Flag Jungle Juice
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">6.3% ABV</span>
+		
+		
+		
+			<span class="style">Wild Specialty Beer</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							12 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Our new fruited sour! This version includes 1 part blackberries to 2 parts cherries. Tart and refreshing!</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Black Flag Brewing Co.</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/zoa4socZYwuCjyQ5nNczngVzYKqYHaSOyWg6OUkvfeg0we6JBrz1Yi40-bXTblImuN35dQNwUf2j584yJztcHtvlmC67yg=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/boulevard-whiskey-barrel-aged-imperial-stout/5725210845118464" target="_blank">
+		
+		
+			Boulevard Whiskey Barrel Aged Imperial Stout
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">11.8% ABV</span>
+		
+		
+		
+			<span class="style">Imperial Stout</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							6 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Like India Pale Ale, Imperial Stouts were originally brewed with high percentages of malt and hops to help them withstand the rigors of a long sea journey, not to India but to Imperial Russia and the Baltic States. Our version is an over-the-top riff on the style, with a huge grain bill featuring several kinds of malted barley, wheat, rye, and oats. A portion of the batch has been aged in whiskey barrels, then blended with fresh ale before bottling.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Boulevard Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/VC0y6aQBo-_APD25M-CfmGTw_G8qzw3W9sZc4w6lI8oEW9-g2zggT9Hbl8VuYGeEKCDmld7VqtHShDrMFjsdviOodz5T=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/evolution-pinehople/5244391780515840" target="_blank">
+		
+		
+			Evolution Pine&#39;Hop&#39;Le
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">6.8% ABV</span>
+		
+		
+		
+			<span class="style">Nitro IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							20 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">PINE’HOP’LE, at 6.8% ABV, 65 IBU, is a tropical take on our classic American IPA, Lot No.3. Brewed with loads of pineapple juice</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Evolution Craft Brewing</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/VC0y6aQBo-_APD25M-CfmGTw_G8qzw3W9sZc4w6lI8oEW9-g2zggT9Hbl8VuYGeEKCDmld7VqtHShDrMFjsdviOodz5T=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/evolution-southern-pecan-pie/5957014772252672" target="_blank">
+		
+		
+			Evolution Southern Pecan Pie
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">10.0% ABV</span>
+		
+		
+		
+			<span class="style">American Brown Ale</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Imperial brown ale with maple syrup, brown sugar and toasted pecans</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Evolution Craft Brewing</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ukbm2AaFPZDUvMFr9yuEGF3T3wAlrohfwLdIGMbn9RzLZneaw1IvDh8jR7hyjP2FH_Vn1pC8VOyZ2-E_TYKIp4HQpDTT=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/firestone-walker-leo-v-ursus-inferos/6696819899498496" target="_blank">
+		
+		
+			Firestone Walker Leo V Ursus: Inferos
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">8.2% ABV</span>
+		
+		
+		
+			<span class="style">Rye IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							12 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A decidedly hoppy and bitter ale with a light grainy spicy character and lingering dryness.
+</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Firestone Walker Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ukbm2AaFPZDUvMFr9yuEGF3T3wAlrohfwLdIGMbn9RzLZneaw1IvDh8jR7hyjP2FH_Vn1pC8VOyZ2-E_TYKIp4HQpDTT=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/firestone-walker-luponic-distortion-no-008/4762917769314304" target="_blank">
+		
+		
+			Firestone Walker Luponic Distortion No. 008
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">5.9% ABV</span>
+		
+		
+		
+			<span class="style">American IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A bitter, moderately strong American pale ale that uses its clean, supporting malt to showcase its hop character.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Firestone Walker Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ukbm2AaFPZDUvMFr9yuEGF3T3wAlrohfwLdIGMbn9RzLZneaw1IvDh8jR7hyjP2FH_Vn1pC8VOyZ2-E_TYKIp4HQpDTT=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/firestone-walker-union-jack-ipa/1449" target="_blank">
+		
+		
+			Firestone Walker Union Jack IPA
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">7.0% ABV</span>
+		
+		
+		
+			<span class="style">American IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">An aggressively hopped West Coast-style IPA. Union Jack showcases exceptional dry hop character with stunning pineapple, citrus and piney aromas on the nose accompanied by honey-like malt aromatics. Double dry hopping brings bold grapefruit, tangerine and citrus flavors that are contrasted by pale malt sweetness to balance this intense brew. A true tribute to the style that put the West Coast on the craft beer map.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Firestone Walker Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ukbm2AaFPZDUvMFr9yuEGF3T3wAlrohfwLdIGMbn9RzLZneaw1IvDh8jR7hyjP2FH_Vn1pC8VOyZ2-E_TYKIp4HQpDTT=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/firestone-walker-velvet-mocha-merlin/5723713166114816" target="_blank">
+		
+		
+			Firestone Walker Velvet Mocha Merlin
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">5.5% ABV</span>
+		
+		
+		
+			<span class="style">Oatmeal Stout</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Our beloved Velvet Merlin aged with cocoa nibs and Intelligentsia Espresso Beans. All of the smooth textures and roasty dark chocolate goodness of our seasonal Velvet Merlin Oatmeal Stout with the added infusion of Intelligentsia Coffee House aromas and cocoa dusted chocolate truffle flavors.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Firestone Walker Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/IjgloMjxO7_9fkF97P2SWnVgxg4rJttCOqkz_Wru3evAGRosLiz3HwTm8fhJH8lLWMj6tpAp7_ZPTK_24kvs3ydd-wfcdg=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/founders-backwoods-bastard/8436577" target="_blank">
+		
+		
+			Founders Backwoods  Bastard
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">11.2% ABV</span>
+		
+		
+		
+			<span class="style">BA Wee Heavy</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Expect lovely, warm smells of single malt scotch, oaky bourbon barrels, smoke, sweet caramel and roasted malts, a bit of earthy spice, and a scintilla of dark fruit. It?s a kick-back sipper made to excite the palate.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Founders Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/IjgloMjxO7_9fkF97P2SWnVgxg4rJttCOqkz_Wru3evAGRosLiz3HwTm8fhJH8lLWMj6tpAp7_ZPTK_24kvs3ydd-wfcdg=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/founders-dirty-bastard/5109276444459008" target="_blank">
+		
+		
+			Founders Dirty Bastard
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">8.5% ABV</span>
+		
+		
+		
+			<span class="style">Wee Heavy</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">So good it’s almost wrong. Dark ruby in color and brewed with seven varieties of imported malts. Complex in finish, with hints of smoke and peat, paired with a malty richness and a right hook of hop power to give it the bad attitude that a beer named Dirty Bastard has to live up to. Ain’t for the wee lads.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Founders Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh4.ggpht.com/DBJFo3r0U3UNi-leZtzFwPsKgC-2z1JBpySQNmVuaIKSbjHJxwJO_5bJVXCCbgRc9hD6fdHwEaUoJHDEzAZFNK8sbtcr8Q=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/goose-island-halia/6631554730164224" target="_blank">
+		
+		
+			Goose Island Halia
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">7.5% ABV</span>
+		
+		
+		
+			<span class="style">BA Sour Peach Saison</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							6 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Halia is a farmhouse ale aged in wine barrels with whole peaches, resulting in bright, effervescent fruit notes in a soft, hazy body that finishes slightly tart and sweet with the pleasant character of ripe, juicy peaches. Literally meaning “remembrance of a loved one” in Hawaiian, Halia was brewed in memory of the dear friend of one of our brewers who loved peaches</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Goose Island Beer Co.</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh4.ggpht.com/DBJFo3r0U3UNi-leZtzFwPsKgC-2z1JBpySQNmVuaIKSbjHJxwJO_5bJVXCCbgRc9hD6fdHwEaUoJHDEzAZFNK8sbtcr8Q=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/goose-island-lolita-2017/5164849056972800" target="_blank">
+		
+		
+			Goose Island Lolita 2017
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">8.7% ABV</span>
+		
+		
+		
+			<span class="style">BA Belgian Wild Ale</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							6 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A sour beer that derives some of its taste and aroma from the particular spices, herbs or vegetables</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Goose Island Beer Co.</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/FM85m8PQDx55qkYnh2YBRjRK7m0A9QwjjAF_8Js6z9J6coltGEo4UYnZKT9GhQ714TBV8UNOsPt18l7wrFtKb1u99DqG2A=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/jailbreak-barrel-aged-big-punisher/5950835124862976" target="_blank">
+		
+		
+			Jailbreak Barrel Aged Big Punisher
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">9.0% ABV</span>
+		
+		
+		
+			<span class="style">RBA Double IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							6 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">An intensely hoppy pale ale with minimal malt character, designed to showcase its strong hop flavors.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Jailbreak Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/FM85m8PQDx55qkYnh2YBRjRK7m0A9QwjjAF_8Js6z9J6coltGEo4UYnZKT9GhQ714TBV8UNOsPt18l7wrFtKb1u99DqG2A=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/jailbreak-ephemeral-volume-vii/6539678026825728" target="_blank">
+		
+		
+			Jailbreak Ephemeral Volume VII
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">8.3% ABV</span>
+		
+		
+		
+			<span class="style">Double IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							12 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">An intensely hoppy pale ale with minimal malt character, designed to showcase its strong hop flavors.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Jailbreak Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/FM85m8PQDx55qkYnh2YBRjRK7m0A9QwjjAF_8Js6z9J6coltGEo4UYnZKT9GhQ714TBV8UNOsPt18l7wrFtKb1u99DqG2A=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/jailbreak-into-the-dark/5393236993507328" target="_blank">
+		
+		
+			Jailbreak Into The Dark
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">5.5% ABV</span>
+		
+		
+		
+			<span class="style">*American Stout*</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Fashioned as a nod to the stouts of old, this stout focuses on the natural roastiness of the malt and adds subtle complimentary notes of caramel, dark chocolate, and dried dark fruits. Clean, dry, and crisp. Lights out</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Jailbreak Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/FM85m8PQDx55qkYnh2YBRjRK7m0A9QwjjAF_8Js6z9J6coltGEo4UYnZKT9GhQ714TBV8UNOsPt18l7wrFtKb1u99DqG2A=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/jailbreak-van-dammit/5119511321640960" target="_blank">
+		
+		
+			Jailbreak Van Dammit
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">9.1% ABV</span>
+		
+		
+		
+			<span class="style">Belgian Dark Strong Ale</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							10 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Extremely limited, just released.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Jailbreak Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/bYqsdWRahXXJ-YUFrRBZv2MmJNsT4pPGHGq3ErNVpSBJPTPCaV4t1BIzx25miwbROLbsdc_Q7TYb2g_UcnEgZJdWLl-Gb5U=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/manor-hill-malt-shop/6610195098370048" target="_blank">
+		
+		
+			Manor Hill Malt Shop
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">8.0% ABV</span>
+		
+		
+		
+			<span class="style">Blackberry IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A bitter, moderately strong American pale ale that uses its clean, supporting malt to showcase its hop character.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Manor Hill Brewing</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/nvInnWpG1eyAXP54mUn3sAfm1ibouuWk8Y37Uo-P8ALTWHdNPoJ8jQXE0U3UDbx-I6-G7B88TakpXNeZMrHF3PtNhZDeOA=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/monument-city-barrel-aged-brown-ale/5834225219272704" target="_blank">
+		
+		
+			Monument City Barrel Aged Brown Ale
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">6.5% ABV</span>
+		
+		
+		
+			<span class="style">BA Brown Ale</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A malty beer that uses its hop flavor to complement and enhance its chocolate and caramel characters.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Monument City Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/nvInnWpG1eyAXP54mUn3sAfm1ibouuWk8Y37Uo-P8ALTWHdNPoJ8jQXE0U3UDbx-I6-G7B88TakpXNeZMrHF3PtNhZDeOA=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/monument-city-battle-ipa/5128562859311104" target="_blank">
+		
+		
+			Monument City Battle IPA
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">7.5% ABV</span>
+		
+		
+		
+			<span class="style">American IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							12 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A bitter, moderately strong American pale ale that uses its clean, supporting malt to showcase its hop character.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Monument City Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/QOGWnp-qz8EGIrTJ56J8ED-3WhPXiPftpExxJTJ73GRe6UrLyo92xAOQSg3TlJM-PM6X_pdIUQOva6Zuk1d5CpYZv9Ri7A=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/ninkasi-total-domination/4895286568681472" target="_blank">
+		
+		
+			Ninkasi Total Domination
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">6.7% ABV</span>
+		
+		
+		
+			<span class="style">American IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							20 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">This IPA has a citrusy, floral hop aroma, and big hop flavor balanced with a richness imparted by Carahell and Munich malts. This beer is a big flavorful Northwest IPA that maintains its drinkability.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Ninkasi Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh4.ggpht.com/9ZCb9weByDDBPWkpbeBVqe8TM3AcSY7zrqpYOQ5nB2HKhnx-bYFesI1MdyXeX58nqAZU9tbEu2oGCK0sTbJ3mg4iRIBuvA=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/old-dominion-root-beer/6708730041729024" target="_blank">
+		
+		
+			Old Dominion Root Beer
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+		
+		
+			<span class="style">Root Beer</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$3.50
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Dominion Root Beer is a good quality brewery-style root beer that features a handcrafted flavor and appearance.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Old Dominion Brewing</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/iY9l9ZD4-Ap1_52CJF4KUSmxquuE_Bp6opX1_Ij2u_p9Y7mDxlvEgPzCdoZRRSqKsgZo5Nc5wK5QqSXWe81RAuRzXq55=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/ommegang-brunetta/4746981572083712" target="_blank">
+		
+		
+			Ommegang Brunetta
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">5.0% ABV</span>
+		
+		
+		
+			<span class="style">Oud Bruin</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">The Oud Bruin style is known for its playful flirtation between sweet and sour flavors and Brunetta is no exception.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Ommegang</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/mCH3LCw_NXTebrkWIfX7vswo_fNbWRQ2kCI8fnL4VwNNJ4rD8TxQEW1p16-34BOF5GkZVrMSq4yzx4JtTa8NmT232uzqPA=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/saranac-green-thumb-dipa/6105841956290560" target="_blank">
+		
+		
+			Saranac Green Thumb DIPA
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">7.8% ABV</span>
+		
+		
+		
+			<span class="style">Double IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">An intensely hoppy pale ale with minimal malt character, designed to showcase its strong hop flavors.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">F.X. Matt Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/54I5dJ_1gfS7phJsWVQj0yrje4ZqW9xdw6riZr4bQH933kgslLeQZ8cli5nu5zCP4m5wTEoVQVhHu2oCjpeENXVHvvX5=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/sierra-nevada-narwhal-imperial-stout/43473429" target="_blank">
+		
+		
+			Sierra Nevada Narwhal Imperial Stout
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">10.2% ABV</span>
+		
+		
+		
+			<span class="style">Imperial Stout</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">This malt-forward monster is bold – with notes of baker’s cocoa, molasses, and dark roasted coffee. This massive imperial stout is incredibly complex, rich, and intense.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Sierra Nevada Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh6.ggpht.com/_64SW31O7F-wTpH6Ui14ZSs-R8ZCA4mPXl5TVWmSdWwGK5z6oUPIhqJyUHQ5yqJJ3jCa5LMzT3DtwKBfTqX-wOPHG3CP38w=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/sly-fox-pikeland-pils/2446496" target="_blank">
+		
+		
+			Sly Fox Pikeland Pils
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">4.9% ABV</span>
+		
+		
+		
+			<span class="style">*German Pilsner*</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A Northern German style Pilsner brewed with imported German Pils malt and hopped with German and Czech hops. Light in body, light straw in color and dry.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Sly Fox Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/L7GwPLqhTpw92WcFgly6rpx7wvt5iEH9pfn36ah3vG3Jdh47tM-tC-rt-vz-IBCiViHFcqRsrfeKxHML2pwtPldZHO2HPQ=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/stone-enjoy-by-122517-unfiltered-ipa/5189497679249408" target="_blank">
+		
+		
+			Stone Enjoy By 12.25.17 Unfiltered IPA
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">9.4% ABV</span>
+		
+		
+		
+			<span class="style">Double IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">An intensely hoppy pale ale with minimal malt character, designed to showcase its strong hop flavors.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Stone Brewing Co</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh6.ggpht.com/aslivMmdTFWup1ojARK_ApQ0Gv7Ht4BPRu44Y63kiUrrkzLKKrp9dsBlKkWr0kLBOw5I6TOnL5TeKCjtiUxeRnGQYl013g=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/tall-tales-blue-ox/5120701903667200" target="_blank">
+		
+		
+			Tall Tales Blue Ox
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">6.8% ABV</span>
+		
+		
+		
+			<span class="style">American Porter</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A complex, malty dark beer with a lightly burnt character.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Tall Tales Brewing</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh6.ggpht.com/aslivMmdTFWup1ojARK_ApQ0Gv7Ht4BPRu44Y63kiUrrkzLKKrp9dsBlKkWr0kLBOw5I6TOnL5TeKCjtiUxeRnGQYl013g=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/tall-tales-hood/5543640485855232" target="_blank">
+		
+		
+			Tall Tales Hood
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">8.4% ABV</span>
+		
+		
+		
+			<span class="style">American IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A bitter, moderately strong American pale ale that uses its clean, supporting malt to showcase its hop character.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Tall Tales Brewing</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh6.ggpht.com/aslivMmdTFWup1ojARK_ApQ0Gv7Ht4BPRu44Y63kiUrrkzLKKrp9dsBlKkWr0kLBOw5I6TOnL5TeKCjtiUxeRnGQYl013g=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/tall-tales-paul-bunyan/6071109237866496" target="_blank">
+		
+		
+			Tall Tales Paul Bunyan
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">10.2% ABV</span>
+		
+		
+		
+			<span class="style">Belgian Strong Ale</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							10 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A very strong and complex Belgian ale full of dark fruit flavors</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Tall Tales Brewing</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/HOmdSM1tLw86JhsT-jsM899bUH5cxqbgUD737drBCLBIrGSoOA0-axCQ5jCEKMVCgjPTOs0H-UxAxAwO73klmyE_yRi93g=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/terrapin-the-walking-dead-lucille/6326120559149056" target="_blank">
+		
+		
+			Terrapin The Walking Dead Lucille
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">9.4% ABV</span>
+		
+		
+		
+			<span class="style">BA Imperial Stout</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">An intensely flavored, big, dark ale. Roasty, fruity, and bittersweet, with a noticeable alcohol presence.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Terrapin Beer Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/4ZvI5Sp63ANEM09PIvCSMNzuXkGlCw4ELt_yi2urkHnGhtAX_aNfr5qy0UH6Waabt9fWjf15k9oHvbUfSBolfAya5YyX3w=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/troegs-mad-elf/3667536" target="_blank">
+		
+		
+			Tröegs Mad Elf
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">11.0% ABV</span>
+		
+		
+		
+			<span class="style">American Strong Ale</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							10 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">The holidays at Tröegs start with our inner Mad Elf momentarily taking over the brew deck. So blame “him” for this cheerful ruby red creation reminiscent of ripened cherries, raw honey and cocoa with notes of cinnamon, clove and allspice.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Tröegs Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/rFvpSYK9JUSgwYcSda8UF3ZgV7QeLcxAh2ylcL5O5042WuI1_9MMo03Zb0d0Yg6fGkDigaiD-a4vX7srBqCk5zhaHqUq2Ws=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/two-brothers-ebels-weiss/13209463" target="_blank">
+		
+		
+			Two Brothers Ebel&#39;s Weiss
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">4.9% ABV</span>
+		
+		
+		
+			<span class="style">Weissbier</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">With nice malty sweetness and a soft aroma of clove, vanilla, and banana, this German style hefe weizen is unfiltered for a glowing orange haze.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Two Brothers Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/s4KnIhplxj4egrEjyIsQOIa_SI5uRrcWcJvnnj0JgcHU5SfxHmOLJxvCZXqxXk1SFt3mhQGjLd1Ww1kbG_yk7DnQHQkwRA=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/victory-dirt-wolf/6638735450963968" target="_blank">
+		
+		
+			Victory Dirt Wolf
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">8.7% ABV</span>
+		
+		
+		
+			<span class="style">Double IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							12 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">An intensely hoppy pale ale with minimal malt character, designed to showcase its strong hop flavors.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Victory Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/s4KnIhplxj4egrEjyIsQOIa_SI5uRrcWcJvnnj0JgcHU5SfxHmOLJxvCZXqxXk1SFt3mhQGjLd1Ww1kbG_yk7DnQHQkwRA=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/victory-java-cask/6368997349523456" target="_blank">
+		
+		
+			Victory Java Cask
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">14.3% ABV</span>
+		
+		
+		
+			<span class="style">BA Imperial Stout</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							6 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A big, intensely flavored dark ale that ends with a warming, bittersweet finish.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Victory Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/s4KnIhplxj4egrEjyIsQOIa_SI5uRrcWcJvnnj0JgcHU5SfxHmOLJxvCZXqxXk1SFt3mhQGjLd1Ww1kbG_yk7DnQHQkwRA=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/victory-storm-king/6672389939396608" target="_blank">
+		
+		
+			Victory Storm King
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">9.1% ABV</span>
+		
+		
+		
+			<span class="style">Imperial Stout</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A big, intensely flavored dark ale that ends with a warming, bittersweet finish.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Victory Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/pqUA9LZhMWIBMweLHEXndPfSvqkFh42U8HQ7I5BlnSGT4LNsbaVT8nwEMHNU8TFpMxKv3k3uLu2TZxVNeUIrO_5UMipT=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/waredaca-maude/5150980748083200" target="_blank">
+		
+		
+			Waredaca Maude
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">6.7% ABV</span>
+		
+		
+		
+			<span class="style">Belgian Dubbel</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A moderately strong Trappist ale with rich malty flavors and a color of reddish-copper</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Waredaca Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/YIeGAbSa3CLKGRry1lnefVk14t7jsBirhY_YrdwHAgtYEt0s-T3ygENP_xY6BihvtbiLC3mqv3wLBatgwR2t8R_Xw5XA5g=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/wyndridge-farm-grapefruit-cider/6667719281475584" target="_blank">
+		
+		
+			Wyndridge Farm Grapefruit Cider
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">5.0% ABV</span>
+		
+		
+		
+			<span class="style">Common Cider</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A refreshing drink with medium body and wine-like apple flavor.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Wyndridge Farm</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ICAfxpeaiPlCkRr62GAs5AfaAuKrymEzKnZ7S_8eCZN9MMxr-NYblojmdrnFlZVIKFyqRoEO5a1bcAeupUqgjVwbzy_V=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/yards-rival-ipa/5331834211401728" target="_blank">
+		
+		
+			Yards Rival IPA
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">6.2% ABV</span>
+		
+		
+		
+			<span class="style">American IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Contrary to its name, Rival’s ingredients work in perfect harmony for a bold, balanced IPA. The recipe starts with a base of pale crystal and rye malts, and Bravo and Nugget bittering hops. Then whole flower Chinook hops go into the hopback, extracting that signature pine character. Finally, Rival is dry hopped with Centennial, Citra, Simcoe and Columbus hops, giving this amber-colored IPA a complex citrus profile.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Yards Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+	</table>
+	
+
+		<div id="attribution" class="evenrow"><img class="taphunterlogo" src="https://www.taphunter.com/static/img/logo_small.png" border="0" align="left"> <a href="https://www.taphunter.com/location/the-white-oak-tavern/4537376978239488" target="_blank">The White Oak Tavern</a> <a href="https://get.taphunter.com/website-drink-menu/?utm_source=Widget&amp;utm_medium=Referral&amp;utm_campaign=widgetv1&utm_content=the%20white%20oak%20tavern" target="_blank">online beer menu</a> powered by <a href="https://www.taphunter.com/?utm_source=Widget&amp;utm_medium=Referral&amp;utm_campaign=widgetv1&utm_content=the%20white%20oak%20tavern" target="_blank">TapHunter</a><br /></div>
+
+</div>
+
+
+                        
+			                        
+            <div class="corner topLeft"></div>
+            <div class="corner topRight"></div>            
+            <div class="corner bottomLeft"></div>
+            <div class="corner bottomRight"></div>
+        <br class="clear" /></div>
+    </div>
+
+	<div style="clear:both;"></div>
+
+    
+<div id="footer"><div class="footer-inner"><p class="copyright">Copyright © 2016 The White Oak Tavern. All rights reserved. Modified and maintained by Higher Media Solutions LLC.</p><p class="credit"><a href="http://demo.themovation.com/eatery/">Eatery Theme</a> by <a href="http://www.themovation.com/">Themovation</a></p></div></div>
+</div> <!-- .eightcol End -->    
+</div> <!-- .row -->        
+</div> <!-- #container -->
+</div> <!-- #wrapper -->
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/comment-reply.min.js?ver=4.5.12'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type='text/javascript' src='http://thewhiteoaktavern.com/wp-includes/js/wp-embed.min.js?ver=4.5.12'></script>
+<div id="fb-root"></div></body>
+</html>    
