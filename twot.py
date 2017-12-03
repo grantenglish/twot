@@ -39,7 +39,7 @@ def getBeers():
     text = json.dumps(allBeers, sort_keys=True, indent=4, separators=(',', ': '))
     return Response(text, mimetype='application/json')
 
-def extract(htmlText):
+def extract(htmlText): #ths has the side effect of populating the global beer list
     soup = BeautifulSoup(htmlText, "html.parser")
 
     for beer in soup.find_all(attrs={'class': "beer-column"}):
@@ -61,7 +61,7 @@ def extract(htmlText):
          allBeers.append(j)
 
 #
-# really here just for test, cut and paste of above #TODO refactor to eliminate
+# really here just for test
 #
 @app.route('/')
 def fromFile():
