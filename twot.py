@@ -32,6 +32,7 @@ def getBeers():
     f.write(req.text)
     f.close()
 
+    #pull the data out of the response
     for beer in soup.find_all(attrs={'class': "beer-column"}):
         name = (beer.find("a", "beername")).text.strip()  # strip laft and right
 
@@ -43,7 +44,7 @@ def getBeers():
 
         style = beer.find("span", "style").text
 
-        sizePrice = beer.find("span", "sizeprice")  # splut and pull the two numbers out
+        sizePrice = beer.find("span", "sizeprice")  # split and pull the two numbers out
         things = sizePrice.text.split()
         size = things[0]
         price = things[2]
@@ -57,11 +58,34 @@ def getBeers():
 @app.route('/')
 def fromFile():
     global allBeers
-    with open('beers.json') as json_data:
-        allBeers = json.load(json_data)
+    f = open('request.txt', "r")
+    reqText = f.read()
+    f.close()
 
-    print(allBeers)
-    text = json.dumps(allBeers, sort_keys=True, indent=4, separators=(',', ': '))
+    soup = BeautifulSoup(reqText, "html.parser")
+
+    for beer in soup.find_all(attrs={'class': "beer-column"}):
+        name=(beer.find("a", "beername")).text.strip()
+
+        abv = "0"
+        abvs = beer.find_all("span", "abv")
+        if len(abvs) > 0:
+            abv = beer.find("span", "abv")
+            abv = abv.text
+
+        style = beer.find("span", "style").text
+
+        sizePrice = beer.find("span", "sizeprice")
+        things = sizePrice.text.split()
+        size = things[0]
+        price = things[2]
+        j = {'type': name, 'style': style, 'abv': abv, 'size': size, 'price': price}
+        allBeers.append(j)
+
+        text = json.dumps(allBeers, sort_keys=True, indent=4, separators=(',', ': '))
+
+    print(text)
+
     return Response(text, mimetype='application/json')
 
 
