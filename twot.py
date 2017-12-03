@@ -39,26 +39,6 @@ def getBeers():
     text = json.dumps(allBeers, sort_keys=True, indent=4, separators=(',', ': '))
     return Response(text, mimetype='application/json')
 
-def extract(htmlText): #ths has the side effect of populating the global beer list
-    soup = BeautifulSoup(htmlText, "html.parser")
-
-    for beer in soup.find_all(attrs={'class': "beer-column"}):
-         name = (beer.find("a", "beername")).text.strip()  # strip laft and right
-
-         abv = "0"
-         abvs = beer.find_all("span", "abv")
-         if len(abvs) > 0:  # apparently root beer gets put on tap with empty abv
-             txt = beer.find("span", "abv")
-             abv = txt.text.split("%")[0]  # pull the number out
-
-         style = beer.find("span", "style").text
-
-         sizePrice = beer.find("span", "sizeprice")  # split and pull the two numbers out
-         things = sizePrice.text.split()
-         size = things[0]
-         price = things[2]
-         j = {'type': name, 'style': style, 'abv': abv, 'size': size, 'price': price}
-         allBeers.append(j)
 
 #
 # really here just for test
@@ -85,6 +65,27 @@ def fromFile():
 @app.route('/table')
 def beersTable():
     return render_template('simple.html', title="Beers", description='Beers at the Tavern', beers=allBeers)
+
+def extract(htmlText): #ths has the side effect of populating the global beer list
+    soup = BeautifulSoup(htmlText, "html.parser")
+
+    for beer in soup.find_all(attrs={'class': "beer-column"}):
+         name = (beer.find("a", "beername")).text.strip()  # strip laft and right
+
+         abv = "0"
+         abvs = beer.find_all("span", "abv")
+         if len(abvs) > 0:  # apparently root beer gets put on tap with empty abv
+             txt = beer.find("span", "abv")
+             abv = txt.text.split("%")[0]  # pull the number out
+
+         style = beer.find("span", "style").text
+
+         sizePrice = beer.find("span", "sizeprice")  # split and pull the two numbers out
+         things = sizePrice.text.split()
+         size = things[0]
+         price = things[2]
+         j = {'type': name, 'style': style, 'abv': abv, 'size': size, 'price': price}
+         allBeers.append(j)
 
 
 if __name__ == "__main__":
