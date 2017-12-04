@@ -5,9 +5,13 @@ from flask import Flask, Response, render_template, send_from_directory
 
 app = Flask(__name__, static_url_path='')
 
+#
+#global list of all the beers
+#
 allBeers = []
 
-
+#
+# lazy set up of statics for dev env, in prod these would be served by nginx
 @app.route('/twot.png', methods=['GET'])
 def servePNG():
     print("servepng")
@@ -19,7 +23,9 @@ def serveCSS():
     print("servecss")
     return send_from_directory('', 'styles.css')
 
-
+#
+# real routes
+#
 @app.route('/get')
 def getBeers():
     global allBeers
@@ -39,9 +45,8 @@ def getBeers():
     text = json.dumps(allBeers, sort_keys=True, indent=4, separators=(',', ': '))
     return Response(text, mimetype='application/json')
 
-
 #
-# really here just for test
+# really here just for test, picts up the last request file
 #
 @app.route('/')
 def fromFile():
@@ -62,10 +67,17 @@ def fromFile():
     return Response(text, mimetype='application/json')
 
 
+#
+# take the existing beer data and present it
+#
 @app.route('/table')
 def beersTable():
     return render_template('simple.html', title="Beers", description='Beers at the Tavern', beers=allBeers)
 
+#
+# utilities
+#  : extract takes an html string and populates the global beer list
+#
 def extract(htmlText): #ths has the side effect of populating the global beer list
     soup = BeautifulSoup(htmlText, "html.parser")
 
@@ -84,6 +96,7 @@ def extract(htmlText): #ths has the side effect of populating the global beer li
          things = sizePrice.text.split()
          size = things[0]
          price = things[2]
+
          j = {'type': name, 'style': style, 'abv': abv, 'size': size, 'price': price}
          allBeers.append(j)
 
