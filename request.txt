@@ -570,7 +570,7 @@ Bar, Dining Room & Beer Garden</p>
 					Tap/Cask
 				
 				List
-				(42)
+				(40)
 			
 		</h2>
 	</div>
@@ -664,16 +664,16 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/bTTbGYKJOucX6ITVPz-hVrTs5zDgrEvuivyTQI9NUQaa_Ji_qJVRVdpChSDYIUDhhirZ9DIjFtucZw_FieFb5vXovuDapg=s150" width="50" align="center" />
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/9k3dV-sY2-qagg8adxkYIKXW6aDVKXn2oX0qBT90mJMb2zrUHG9FjKX6XDDUONQdifWKyqqUTqjSLPLn-UcowvNm1iR3=s150" width="50" align="center" />
 			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/ballast-point-peanut-butter-victory-at-sea/6253732589469696" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/austin-eastciders-texas-honey/5832070660620288" target="_blank">
 		
 		
-			Ballast Point Peanut Butter Victory At Sea
+			Austin Eastciders Texas Honey
 		
 		
 			</a>
@@ -685,11 +685,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">10.0% ABV</span>
+			<span class="abv">5.0% ABV</span>
 		
 		
 		
-			<span class="style">*Imperial Stout*</span>
+			<span class="style">Fruit Cider</span>
 		
 		
 			
@@ -698,7 +698,7 @@ Bar, Dining Room & Beer Garden</p>
 					<br />
 					<span class="sizeprice">
 						
-							8 oz:
+							16 oz:
 						
 						
 							$7.00
@@ -712,14 +712,14 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">This Peanut Butter Victory at Sea is a festive take on our popular Imperial Porter. We took our trademark robust porter brewed with Caffe Calabria coffee and vanilla and added a dose of peanut butter. The trio of flavors play perfectly on your palate.</span><br />
+				<span class="description">Eastciders Texas Honey is a blend of bittersweet apples and desert apples with Texas honey to create this traditional Texas Honey Cider.</span><br />
 			
 		
 		
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Ballast Point Brewing Company</strong>
+			<strong class="bold brewery-name">Austin Eastciders</strong>
 			
 		</td>
 	
@@ -743,10 +743,10 @@ Bar, Dining Room & Beer Garden</p>
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/barley-and-hops-mark-it-zero-fanboy/6594398661640192" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/barley-and-hops-gingerbread-riding-hood/5657489294753792" target="_blank">
 		
 		
-			Barley And Hops Mark It Zero Fanboy
+			Barley And Hops Gingerbread Riding Hood
 		
 		
 			</a>
@@ -758,11 +758,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">7.0% ABV</span>
+			<span class="abv">5.9% ABV</span>
 		
 		
 		
-			<span class="style">American IPA</span>
+			<span class="style">Winter Seasonal Beer</span>
 		
 		
 			
@@ -785,7 +785,7 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">A Non-New England, West Coast Rye IPABrewed in response to the hazy, crazy trend, this is NOT a beer you have to strain or chew to enjoy</span><br />
+				<span class="description">A somewhat strong dark beer with added spices that suggest the winter season</span><br />
 			
 		
 		
@@ -810,16 +810,16 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ltkyjcDtaKJOzv2BOdS4q9qIQMxh-w1p2aiytPeLvbqJq6L1iGvIZq4eh4x-h7aT1zYXSM5w0ys5hVx3Rt9WxRVEx-1vXA8=s150" width="50" align="center" />
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/OhFxuWxl2TN4_dFli_pNTqjhGnQdxQQbZw7HcXhMjc5OAtm3uC-SjI91DNDycevnH3_mZVGyPvwjPzboSAS884TBHTcF7F0=s150" width="50" align="center" />
 			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/bells-third-coast-old-ale/6389361684774912" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/bells-titania/4828070714015744" target="_blank">
 		
 		
-			Bell&#39;s Third Coast Old Ale
+			Bell&#39;s Titania
 		
 		
 			</a>
@@ -831,11 +831,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">10.2% ABV</span>
+			<span class="abv">6.4% ABV</span>
 		
 		
 		
-			<span class="style">*Old Ale*</span>
+			<span class="style">American Wheat Beer</span>
 		
 		
 			
@@ -844,7 +844,7 @@ Bar, Dining Room & Beer Garden</p>
 					<br />
 					<span class="sizeprice">
 						
-							10 oz:
+							16 oz:
 						
 						
 							$7.00
@@ -858,7 +858,7 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">A barley wine with deep amber color. The brandy of ales, this beer has vintage character and will mature in the bottle at cellar temperature for years.</span><br />
+				<span class="description">A refreshing wheat beer that favors hoppy notes over yeast character.</span><br />
 			
 		
 		
@@ -883,16 +883,14 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/WP4HRjylUajsX0yFkWQdJRfCh_taiaMGhaHTtDlQQzTjlPs_9mFsk4FlHN70YgD5FtnF4yMfBLXUIN2Q3UyDsO13Uewn=s150" width="50" align="center" />
-			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/black-flag-jungle-juice/6717185736835072" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/brewers-art-monument-city-crosstown/5352531596935168" target="_blank">
 		
 		
-			Black Flag Jungle Juice
+			Brewer&#39;s Art/ Monument City Crosstown
 		
 		
 			</a>
@@ -904,377 +902,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">6.3% ABV</span>
+			<span class="abv">4.5% ABV</span>
 		
 		
 		
-			<span class="style">Wild Specialty Beer</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							12 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">Our new fruited sour! This version includes 1 part blackberries to 2 parts cherries. Tart and refreshing!</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Black Flag Brewing Co.</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/zoa4socZYwuCjyQ5nNczngVzYKqYHaSOyWg6OUkvfeg0we6JBrz1Yi40-bXTblImuN35dQNwUf2j584yJztcHtvlmC67yg=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/boulevard-whiskey-barrel-aged-imperial-stout/5725210845118464" target="_blank">
-		
-		
-			Boulevard Whiskey Barrel Aged Imperial Stout
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">11.8% ABV</span>
-		
-		
-		
-			<span class="style">Imperial Stout</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							6 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">Like India Pale Ale, Imperial Stouts were originally brewed with high percentages of malt and hops to help them withstand the rigors of a long sea journey, not to India but to Imperial Russia and the Baltic States. Our version is an over-the-top riff on the style, with a huge grain bill featuring several kinds of malted barley, wheat, rye, and oats. A portion of the batch has been aged in whiskey barrels, then blended with fresh ale before bottling.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Boulevard Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/VC0y6aQBo-_APD25M-CfmGTw_G8qzw3W9sZc4w6lI8oEW9-g2zggT9Hbl8VuYGeEKCDmld7VqtHShDrMFjsdviOodz5T=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/evolution-pinehople/5244391780515840" target="_blank">
-		
-		
-			Evolution Pine&#39;Hop&#39;Le
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">6.8% ABV</span>
-		
-		
-		
-			<span class="style">Nitro IPA</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							20 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">PINE’HOP’LE, at 6.8% ABV, 65 IBU, is a tropical take on our classic American IPA, Lot No.3. Brewed with loads of pineapple juice</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Evolution Craft Brewing</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/VC0y6aQBo-_APD25M-CfmGTw_G8qzw3W9sZc4w6lI8oEW9-g2zggT9Hbl8VuYGeEKCDmld7VqtHShDrMFjsdviOodz5T=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/evolution-southern-pecan-pie/5957014772252672" target="_blank">
-		
-		
-			Evolution Southern Pecan Pie
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">10.0% ABV</span>
-		
-		
-		
-			<span class="style">American Brown Ale</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							8 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">Imperial brown ale with maple syrup, brown sugar and toasted pecans</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Evolution Craft Brewing</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ukbm2AaFPZDUvMFr9yuEGF3T3wAlrohfwLdIGMbn9RzLZneaw1IvDh8jR7hyjP2FH_Vn1pC8VOyZ2-E_TYKIp4HQpDTT=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername  recent " href="https://www.taphunter.com/beer/firestone-walker-leo-v-ursus-inferos/6696819899498496" target="_blank">
-		
-		
-			Firestone Walker Leo V Ursus: Inferos
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">8.2% ABV</span>
-		
-		
-		
-			<span class="style">Rye IPA</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							12 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">A decidedly hoppy and bitter ale with a light grainy spicy character and lingering dryness.
-</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Firestone Walker Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ukbm2AaFPZDUvMFr9yuEGF3T3wAlrohfwLdIGMbn9RzLZneaw1IvDh8jR7hyjP2FH_Vn1pC8VOyZ2-E_TYKIp4HQpDTT=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername  recent " href="https://www.taphunter.com/beer/firestone-walker-luponic-distortion-no-008/4762917769314304" target="_blank">
-		
-		
-			Firestone Walker Luponic Distortion No. 008
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">5.9% ABV</span>
-		
-		
-		
-			<span class="style">American IPA</span>
+			<span class="style">Lichtenhainer</span>
 		
 		
 			
@@ -1297,14 +929,14 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">A bitter, moderately strong American pale ale that uses its clean, supporting malt to showcase its hop character.</span><br />
+				<span class="description">A smoked, sour German wheat beer with refreshing character</span><br />
 			
 		
 		
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Firestone Walker Brewing Company</strong>
+			<strong class="bold brewery-name">Brewer&#39;s Art/ Monument City</strong>
 			
 		</td>
 	
@@ -1322,16 +954,14 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ukbm2AaFPZDUvMFr9yuEGF3T3wAlrohfwLdIGMbn9RzLZneaw1IvDh8jR7hyjP2FH_Vn1pC8VOyZ2-E_TYKIp4HQpDTT=s150" width="50" align="center" />
-			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername  recent " href="https://www.taphunter.com/beer/firestone-walker-union-jack-ipa/1449" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/brookeville-farm-flexible-flyer/5985015728701440" target="_blank">
 		
 		
-			Firestone Walker Union Jack IPA
+			Brookeville Farm Flexible Flyer
 		
 		
 			</a>
@@ -1343,80 +973,7 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">7.0% ABV</span>
-		
-		
-		
-			<span class="style">American IPA</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							16 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">An aggressively hopped West Coast-style IPA. Union Jack showcases exceptional dry hop character with stunning pineapple, citrus and piney aromas on the nose accompanied by honey-like malt aromatics. Double dry hopping brings bold grapefruit, tangerine and citrus flavors that are contrasted by pale malt sweetness to balance this intense brew. A true tribute to the style that put the West Coast on the craft beer map.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Firestone Walker Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ukbm2AaFPZDUvMFr9yuEGF3T3wAlrohfwLdIGMbn9RzLZneaw1IvDh8jR7hyjP2FH_Vn1pC8VOyZ2-E_TYKIp4HQpDTT=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername  recent " href="https://www.taphunter.com/beer/firestone-walker-velvet-mocha-merlin/5723713166114816" target="_blank">
-		
-		
-			Firestone Walker Velvet Mocha Merlin
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">5.5% ABV</span>
+			<span class="abv">6.4% ABV</span>
 		
 		
 		
@@ -1429,7 +986,7 @@ Bar, Dining Room & Beer Garden</p>
 					<br />
 					<span class="sizeprice">
 						
-							16 oz:
+							12 oz:
 						
 						
 							$7.00
@@ -1443,14 +1000,15 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">Our beloved Velvet Merlin aged with cocoa nibs and Intelligentsia Espresso Beans. All of the smooth textures and roasty dark chocolate goodness of our seasonal Velvet Merlin Oatmeal Stout with the added infusion of Intelligentsia Coffee House aromas and cocoa dusted chocolate truffle flavors.</span><br />
+				<span class="description">A very dark, full-bodied, roast ale with a complementary oatmeal flavor.
+</span><br />
 			
 		
 		
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Firestone Walker Brewing Company</strong>
+			<strong class="bold brewery-name">Brookeville Beer Farm</strong>
 			
 		</td>
 	
@@ -1468,89 +1026,16 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/IjgloMjxO7_9fkF97P2SWnVgxg4rJttCOqkz_Wru3evAGRosLiz3HwTm8fhJH8lLWMj6tpAp7_ZPTK_24kvs3ydd-wfcdg=s150" width="50" align="center" />
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/fsabvANbwhjAUvRGxnJy5TpfACbiN2x-fr1yXv_QOHXdlNW2DB2mHwrs0v3bRnbRbV01SLyxmM7RmnGxrKmnhz0bnVHnhF0=s150" width="50" align="center" />
 			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/founders-backwoods-bastard/8436577" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/corsendonk-christmas-ale/401945" target="_blank">
 		
 		
-			Founders Backwoods  Bastard
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">11.2% ABV</span>
-		
-		
-		
-			<span class="style">BA Wee Heavy</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							8 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">Expect lovely, warm smells of single malt scotch, oaky bourbon barrels, smoke, sweet caramel and roasted malts, a bit of earthy spice, and a scintilla of dark fruit. It?s a kick-back sipper made to excite the palate.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Founders Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/IjgloMjxO7_9fkF97P2SWnVgxg4rJttCOqkz_Wru3evAGRosLiz3HwTm8fhJH8lLWMj6tpAp7_ZPTK_24kvs3ydd-wfcdg=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/founders-dirty-bastard/5109276444459008" target="_blank">
-		
-		
-			Founders Dirty Bastard
+			Corsendonk Christmas Ale
 		
 		
 			</a>
@@ -1566,7 +1051,80 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 		
-			<span class="style">Wee Heavy</span>
+			<span class="style">Belgian Dark Strong Ale</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							6 oz:
+						
+						
+							$6.42
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">On the palate this silky smooth ale is predominantly malty, with smoky, spicy and citrusy notes, and a long, lingering finish that is lightly tart and malty.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Brouwerij Corsendonk</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh6.ggpht.com/glNi4R8Dpl-LygFYvl4Stp-D1VNfHTLgti5oVhzmCYxGzirnNeb9u492pvYlq61IjBqGOqncwd3uyFSk3XSfVzpP84sQjQ=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/diamondback-bird-law/4845141474672640" target="_blank">
+		
+		
+			Diamondback Bird Law
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">5.2% ABV</span>
+		
+		
+		
+			<span class="style">American Pale Ale</span>
 		
 		
 			
@@ -1589,14 +1147,14 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">So good it’s almost wrong. Dark ruby in color and brewed with seven varieties of imported malts. Complex in finish, with hints of smoke and peat, paired with a malty richness and a right hook of hop power to give it the bad attitude that a beer named Dirty Bastard has to live up to. Ain’t for the wee lads.</span><br />
+				<span class="description">A moderate, refreshing ale with noticeable hop aroma balanced by supporting malt flavors.</span><br />
 			
 		
 		
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Founders Brewing Company</strong>
+			<strong class="bold brewery-name">Diamondback Brewing Company</strong>
 			
 		</td>
 	
@@ -1614,16 +1172,16 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh4.ggpht.com/DBJFo3r0U3UNi-leZtzFwPsKgC-2z1JBpySQNmVuaIKSbjHJxwJO_5bJVXCCbgRc9hD6fdHwEaUoJHDEzAZFNK8sbtcr8Q=s150" width="50" align="center" />
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/feRNT66V793Gpcc12TAgLiNgtbBy4A3makaoMgtZZkzp3n_iUKBNmwjuhdOhYxcgwPHe0VYgHqq6O76-yneCvrL7MIa3PA=s150" width="50" align="center" />
 			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/goose-island-halia/6631554730164224" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/dogfish-head-120-minute-ipa-2017/6660571820457984" target="_blank">
 		
 		
-			Goose Island Halia
+			Dogfish Head 120 Minute IPA (2017)
 		
 		
 			</a>
@@ -1635,11 +1193,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">7.5% ABV</span>
+			<span class="abv">18.0% ABV</span>
 		
 		
 		
-			<span class="style">BA Sour Peach Saison</span>
+			<span class="style">Triple IPA</span>
 		
 		
 			
@@ -1662,14 +1220,598 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">Halia is a farmhouse ale aged in wine barrels with whole peaches, resulting in bright, effervescent fruit notes in a soft, hazy body that finishes slightly tart and sweet with the pleasant character of ripe, juicy peaches. Literally meaning “remembrance of a loved one” in Hawaiian, Halia was brewed in memory of the dear friend of one of our brewers who loved peaches</span><br />
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Dogfish Head Craft Brewery</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/feRNT66V793Gpcc12TAgLiNgtbBy4A3makaoMgtZZkzp3n_iUKBNmwjuhdOhYxcgwPHe0VYgHqq6O76-yneCvrL7MIa3PA=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/dogfish-head-indian-brown-ale/340351" target="_blank">
+		
+		
+			Dogfish Head Indian Brown Ale
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">7.2% ABV</span>
+		
+		
+		
+			<span class="style">Brown IPA</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A cross between a Scotch Ale, an India Pale Ale and an American Brown, Indian Brown Ale is well-hopped and malty at the same time (It&#39;s magical!).
+The beer has characteristics of each style that inspired it: the color of an American Brown, the caramel notes of a Scotch Ale, and the hopping regimen of an India Pale Ale. We dry-hop the Indian Brown Ale in a similar fashion to our 60 Minute IPA and 90 Minute IPA. This beer is brewed with Aromatic barley and organic brown sugar.
+- See more at: http://www.dogfish.com/brews-spirits/the-brews/year-round-brews/indian-brown-ale.htm#sthash.YGvtM6vs.dpuf</span><br />
 			
 		
 		
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Goose Island Beer Co.</strong>
+			<strong class="bold brewery-name">Dogfish Head Craft Brewery</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/feRNT66V793Gpcc12TAgLiNgtbBy4A3makaoMgtZZkzp3n_iUKBNmwjuhdOhYxcgwPHe0VYgHqq6O76-yneCvrL7MIa3PA=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/dogfish-head-namaste/12802787" target="_blank">
+		
+		
+			Dogfish Head Namaste
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">4.8% ABV</span>
+		
+		
+		
+			<span class="style">Witbier</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A witbier bursting with good karma. Made with dried organic orange slices, fresh-cut lemongrass and a bit of coriander, this Belgian-style white beer is a great thirst quencher.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Dogfish Head Craft Brewery</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/feRNT66V793Gpcc12TAgLiNgtbBy4A3makaoMgtZZkzp3n_iUKBNmwjuhdOhYxcgwPHe0VYgHqq6O76-yneCvrL7MIa3PA=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/dogfish-head-siracusa-nera/5105318567346176" target="_blank">
+		
+		
+			Dogfish Head Siracusa Nera
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">10.0% ABV</span>
+		
+		
+		
+			<span class="style">Russian Imperial Stout</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Combining a roasty Imperial Stout with a jammy Syrah wine, this beer is bold and complex. Notes of coffee, dark chocolate and anise from a blend of roasted malts meld with flavors of plums, cherries and stewed fruits from Syrah grape must in this jet black stout. Aged on American oak to add some light toasty vanilla to the mix.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Dogfish Head Craft Brewery</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/1eFFYXjHGY2kgj5vaWIli2CN1Y_CiVsgHJh4zGXv5wkX6yxV9jKQ_bb0gz5mpW5rkPvfwqWh5XtFlyGs9jV94Eip4mT5=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/elysian-bifrost-winter-ale/320436" target="_blank">
+		
+		
+			Elysian Bifrost Winter Ale
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">8.4% ABV</span>
+		
+		
+		
+			<span class="style">*Winter Pale Ale*</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							12 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Pours golden with orange highlights. Smells alluringly sweet like caramel apples with a little spice and orange zest. Taste is bold and balanced with a good amount of citrus and earthy hop bitters to offset the malt character. Finishes dry with a bit of fruit.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Elysian Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/V0SYk8k7KEd-xaY3VtESYJ9s4mcGWGNX4fBbl3dwnnOtjNKzht_2oU73tj8w8_WT9JizTHOp0egJqxFXVPOdk34uFGWzeQ=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/epic-big-bad-baptist-2017/6654451397689344" target="_blank">
+		
+		
+			Epic Big Bad Baptist 2017
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">11.2% ABV</span>
+		
+		
+		
+			<span class="style">Imperial Stout</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A big, intensely flavored dark ale that ends with a warming, bittersweet finish.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Epic Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/V0SYk8k7KEd-xaY3VtESYJ9s4mcGWGNX4fBbl3dwnnOtjNKzht_2oU73tj8w8_WT9JizTHOp0egJqxFXVPOdk34uFGWzeQ=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/epic-triple-barrel-big-bad-baptist/6647890566709248" target="_blank">
+		
+		
+			Epic Triple Barrel Big Bad Baptist
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">11.4% ABV</span>
+		
+		
+		
+			<span class="style">Imperial Stout</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Imperial stout aged in Whiskey &amp; Rum barrels with cocao nibs, barrel aged coffee, &amp; barrel aged coconut added.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Epic Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/VC0y6aQBo-_APD25M-CfmGTw_G8qzw3W9sZc4w6lI8oEW9-g2zggT9Hbl8VuYGeEKCDmld7VqtHShDrMFjsdviOodz5T=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/evolution-rise-up-ris/4806273702297600" target="_blank">
+		
+		
+			Evolution Rise Up R.I.S.
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">10.0% ABV</span>
+		
+		
+		
+			<span class="style">Russian Imperial Stout</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							8 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">An intensely flavored, big, dark ale. Roasty, fruity, and bittersweet, with a noticeable alcohol presence.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Evolution Craft Brewing</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/hcvZjmlm9uAEz2mW2klN6ETE65ssL9gL1b-PTRq7AyGnwLu84DBq5y7fSggmAGbGwnGat4X5E-B8SJdQNx32FrT7w0rGAg=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/flying-dog-the-truth/5048694870114304" target="_blank">
+		
+		
+			Flying Dog The Truth
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">8.7% ABV</span>
+		
+		
+		
+			<span class="style">*Double IPA*</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							12 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">This beer came to fruition because we saw a gap in our portfolio and we wanted to increase our market share. Sometimes the truth hurts. But most often, it’s damn refreshing. The Truth Imperial IPA--the latest addition to our year-round portfolio-is a hop bomb of some of the most distinct Pacific Northwest hops available today. Its sharp hop bitterness begins with huge pine notes on the nose, which evolve into bright citrus (think grapefruit) and subtle stone fruit flavors.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Flying Dog Brewery</strong>
 			
 		</td>
 	
@@ -1743,6 +1885,152 @@ Bar, Dining Room & Beer Garden</p>
 	
 		<td class="brewery-column">
 			<strong class="bold brewery-name">Goose Island Beer Co.</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh4.ggpht.com/DBJFo3r0U3UNi-leZtzFwPsKgC-2z1JBpySQNmVuaIKSbjHJxwJO_5bJVXCCbgRc9hD6fdHwEaUoJHDEzAZFNK8sbtcr8Q=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/goose-island-noel/5149482156818432" target="_blank">
+		
+		
+			Goose Island Noel
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">9.2% ABV</span>
+		
+		
+		
+			<span class="style">Belgian Dark Strong Ale</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							6 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Goose Island Noël is an un-spiced Belgian-style, Dark Ale with balanced notes of caramelized sugar, toasted bread, black cherry</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Goose Island Beer Co.</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/CaA_GQFo7LbQyzKEnGEcqzBYf2z23lvVgqMQImqQMT1729BwgkcvBoITB2RgDJ6dUCrF1pQzwVxY--rpMYjV_H7EWh07Zw=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/hysteria-great-scotch/4937160666644480" target="_blank">
+		
+		
+			Hysteria Great Scotch!
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">7.6% ABV</span>
+		
+		
+		
+			<span class="style">Wee Heavy</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							12 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A rich, dessert-esque beer with a strong caramel component that is designed to go down smooth.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Hysteria Brewing Company</strong>
 			
 		</td>
 	
@@ -1839,83 +2127,10 @@ Bar, Dining Room & Beer Garden</p>
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/jailbreak-ephemeral-volume-vii/6539678026825728" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/jailbreak-sister-roberta/6023132040921088" target="_blank">
 		
 		
-			Jailbreak Ephemeral Volume VII
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">8.3% ABV</span>
-		
-		
-		
-			<span class="style">Double IPA</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							12 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">An intensely hoppy pale ale with minimal malt character, designed to showcase its strong hop flavors.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Jailbreak Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/FM85m8PQDx55qkYnh2YBRjRK7m0A9QwjjAF_8Js6z9J6coltGEo4UYnZKT9GhQ714TBV8UNOsPt18l7wrFtKb1u99DqG2A=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/jailbreak-into-the-dark/5393236993507328" target="_blank">
-		
-		
-			Jailbreak Into The Dark
+			Jailbreak Sister Roberta
 		
 		
 			</a>
@@ -1927,84 +2142,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">5.5% ABV</span>
+			<span class="abv">6.2% ABV</span>
 		
 		
 		
-			<span class="style">*American Stout*</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							16 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">Fashioned as a nod to the stouts of old, this stout focuses on the natural roastiness of the malt and adds subtle complimentary notes of caramel, dark chocolate, and dried dark fruits. Clean, dry, and crisp. Lights out</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Jailbreak Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/FM85m8PQDx55qkYnh2YBRjRK7m0A9QwjjAF_8Js6z9J6coltGEo4UYnZKT9GhQ714TBV8UNOsPt18l7wrFtKb1u99DqG2A=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/jailbreak-van-dammit/5119511321640960" target="_blank">
-		
-		
-			Jailbreak Van Dammit
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">9.1% ABV</span>
-		
-		
-		
-			<span class="style">Belgian Dark Strong Ale</span>
+			<span class="style">Sour Cherry Porter</span>
 		
 		
 			
@@ -2027,7 +2169,7 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">Extremely limited, just released.</span><br />
+				<span class="description">This kettle-soured dark ale is an enchanting chameleon, falling somewhere between porter and Flemish red in flavor on the palate.</span><br />
 			
 		
 		
@@ -2052,162 +2194,16 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/bYqsdWRahXXJ-YUFrRBZv2MmJNsT4pPGHGq3ErNVpSBJPTPCaV4t1BIzx25miwbROLbsdc_Q7TYb2g_UcnEgZJdWLl-Gb5U=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/manor-hill-malt-shop/6610195098370048" target="_blank">
-		
-		
-			Manor Hill Malt Shop
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">8.0% ABV</span>
-		
-		
-		
-			<span class="style">Blackberry IPA</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							8 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">A bitter, moderately strong American pale ale that uses its clean, supporting malt to showcase its hop character.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Manor Hill Brewing</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
 				<img class="brewerylogo" src="https://lh3.googleusercontent.com/nvInnWpG1eyAXP54mUn3sAfm1ibouuWk8Y37Uo-P8ALTWHdNPoJ8jQXE0U3UDbx-I6-G7B88TakpXNeZMrHF3PtNhZDeOA=s150" width="50" align="center" />
 			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/monument-city-barrel-aged-brown-ale/5834225219272704" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/monument-city-crooked-window/5054332099362816" target="_blank">
 		
 		
-			Monument City Barrel Aged Brown Ale
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">6.5% ABV</span>
-		
-		
-		
-			<span class="style">BA Brown Ale</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							8 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">A malty beer that uses its hop flavor to complement and enhance its chocolate and caramel characters.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Monument City Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/nvInnWpG1eyAXP54mUn3sAfm1ibouuWk8Y37Uo-P8ALTWHdNPoJ8jQXE0U3UDbx-I6-G7B88TakpXNeZMrHF3PtNhZDeOA=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/monument-city-battle-ipa/5128562859311104" target="_blank">
-		
-		
-			Monument City Battle IPA
+			Monument City Crooked Window
 		
 		
 			</a>
@@ -2219,11 +2215,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">7.5% ABV</span>
+			<span class="abv">8.2% ABV</span>
 		
 		
 		
-			<span class="style">American IPA</span>
+			<span class="style">Belgian Dubbel</span>
 		
 		
 			
@@ -2246,7 +2242,7 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">A bitter, moderately strong American pale ale that uses its clean, supporting malt to showcase its hop character.</span><br />
+				<span class="description">A moderately strong Trappist ale with rich malty flavors and a color of reddish-copper</span><br />
 			
 		
 		
@@ -2271,16 +2267,16 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/QOGWnp-qz8EGIrTJ56J8ED-3WhPXiPftpExxJTJ73GRe6UrLyo92xAOQSg3TlJM-PM6X_pdIUQOva6Zuk1d5CpYZv9Ri7A=s150" width="50" align="center" />
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/nvInnWpG1eyAXP54mUn3sAfm1ibouuWk8Y37Uo-P8ALTWHdNPoJ8jQXE0U3UDbx-I6-G7B88TakpXNeZMrHF3PtNhZDeOA=s150" width="50" align="center" />
 			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/ninkasi-total-domination/4895286568681472" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/monument-city-woodstove/6252520439283712" target="_blank">
 		
 		
-			Ninkasi Total Domination
+			Monument City Woodstove
 		
 		
 			</a>
@@ -2292,11 +2288,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">6.7% ABV</span>
+			<span class="abv">10.0% ABV</span>
 		
 		
 		
-			<span class="style">American IPA</span>
+			<span class="style">Imperial Stout</span>
 		
 		
 			
@@ -2305,7 +2301,7 @@ Bar, Dining Room & Beer Garden</p>
 					<br />
 					<span class="sizeprice">
 						
-							20 oz:
+							12 oz:
 						
 						
 							$7.00
@@ -2319,14 +2315,160 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">This IPA has a citrusy, floral hop aroma, and big hop flavor balanced with a richness imparted by Carahell and Munich malts. This beer is a big flavorful Northwest IPA that maintains its drinkability.</span><br />
+				<span class="description">A big, intensely flavored dark ale that ends with a warming, bittersweet finish.</span><br />
 			
 		
 		
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Ninkasi Brewing Company</strong>
+			<strong class="bold brewery-name">Monument City Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/7jMd4I_jdCDS_bUzfd8zPvtK3d0y0uGjIZd0DWEzW86Zo9PyhMs892Av4YpeXX07W3iFavaYC4lYQYG-I3l53cTr5RlGBQ=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/new-belgium-imperial-frambozen/4788234588258304" target="_blank">
+		
+		
+			New Belgium Imperial Frambozen
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">8.5% ABV</span>
+		
+		
+		
+			<span class="style">Fruit Lambic</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							6 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A fruity, sour, wild Belgian wheat beer.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">New Belgium Brewing</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/4ht1dnwoWyDH1M3TioFKtR2p-7BAWg3fKmDO0bYIV4X4J-4ljeF4EdGSH8GNfR2_8Jp3ZpOoxIRUdnQHYoMV8BwkeAspE4Y=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/new-holland-pilgrims-dole/4965570772467712" target="_blank">
+		
+		
+			New Holland Pilgrim&#39;s Dole
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">12.0% ABV</span>
+		
+		
+		
+			<span class="style">Wheatwine</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							6 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A barleywine-style ale made with fifty percent wheat malt, or what we at New Holland call a &quot;wheatwine&quot;. Pilgrim&#39;s Dole blends warming and slightly sweet flavors with a unique, caramelized character.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">New Holland Brewery</strong>
 			
 		</td>
 	
@@ -2415,16 +2557,16 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/iY9l9ZD4-Ap1_52CJF4KUSmxquuE_Bp6opX1_Ij2u_p9Y7mDxlvEgPzCdoZRRSqKsgZo5Nc5wK5QqSXWe81RAuRzXq55=s150" width="50" align="center" />
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/BJ-F0O930HC7y_BZpHveodGvbL-q4l2JbcYnuF2vVpmuWJ8K-jH3FXWVoSckbyjj2sSwje17QVM_wsUJEdMPw7qBzI52p-8=s150" width="50" align="center" />
 			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/ommegang-brunetta/4746981572083712" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/red-shedman-oatmeal-milk-stout/5522716289138688" target="_blank">
 		
 		
-			Ommegang Brunetta
+			Red Shedman Oatmeal Milk Stout
 		
 		
 			</a>
@@ -2436,11 +2578,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">5.0% ABV</span>
+			<span class="abv">5.4% ABV</span>
 		
 		
 		
-			<span class="style">Oud Bruin</span>
+			<span class="style">Oatmeal Milk Stout Nitro</span>
 		
 		
 			
@@ -2449,7 +2591,7 @@ Bar, Dining Room & Beer Garden</p>
 					<br />
 					<span class="sizeprice">
 						
-							8 oz:
+							16 oz:
 						
 						
 							$7.00
@@ -2463,14 +2605,14 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">The Oud Bruin style is known for its playful flirtation between sweet and sour flavors and Brunetta is no exception.</span><br />
+				<span class="description">A fairly strong, highly roasted dark stout with pronounced bitterness.</span><br />
 			
 		
 		
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Ommegang</strong>
+			<strong class="bold brewery-name">Red Shedman Farm Brewery</strong>
 			
 		</td>
 	
@@ -2488,16 +2630,16 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/mCH3LCw_NXTebrkWIfX7vswo_fNbWRQ2kCI8fnL4VwNNJ4rD8TxQEW1p16-34BOF5GkZVrMSq4yzx4JtTa8NmT232uzqPA=s150" width="50" align="center" />
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/yPOHv3BCinh3y9lwhu9vIUg1fwLvOjN1IcYin2jbFGGrGVp8_3CknxLIKuFgOk3OeGa9aMIyIA1TTAOr5oiLQplSIxKePDs=s150" width="50" align="center" />
 			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/saranac-green-thumb-dipa/6105841956290560" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/rogue-santas-private-reserve-2017-belgian-dark-ale/6164349089218560" target="_blank">
 		
 		
-			Saranac Green Thumb DIPA
+			Rogue Santa&#39;s Private Reserve 2017 Belgian Dark Ale
 		
 		
 			</a>
@@ -2513,7 +2655,7 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 		
-			<span class="style">Double IPA</span>
+			<span class="style">Belgian Dark Strong Ale</span>
 		
 		
 			
@@ -2522,445 +2664,7 @@ Bar, Dining Room & Beer Garden</p>
 					<br />
 					<span class="sizeprice">
 						
-							8 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">An intensely hoppy pale ale with minimal malt character, designed to showcase its strong hop flavors.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">F.X. Matt Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/54I5dJ_1gfS7phJsWVQj0yrje4ZqW9xdw6riZr4bQH933kgslLeQZ8cli5nu5zCP4m5wTEoVQVhHu2oCjpeENXVHvvX5=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/sierra-nevada-narwhal-imperial-stout/43473429" target="_blank">
-		
-		
-			Sierra Nevada Narwhal Imperial Stout
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">10.2% ABV</span>
-		
-		
-		
-			<span class="style">Imperial Stout</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							8 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">This malt-forward monster is bold – with notes of baker’s cocoa, molasses, and dark roasted coffee. This massive imperial stout is incredibly complex, rich, and intense.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Sierra Nevada Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh6.ggpht.com/_64SW31O7F-wTpH6Ui14ZSs-R8ZCA4mPXl5TVWmSdWwGK5z6oUPIhqJyUHQ5yqJJ3jCa5LMzT3DtwKBfTqX-wOPHG3CP38w=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/sly-fox-pikeland-pils/2446496" target="_blank">
-		
-		
-			Sly Fox Pikeland Pils
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">4.9% ABV</span>
-		
-		
-		
-			<span class="style">*German Pilsner*</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							16 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">A Northern German style Pilsner brewed with imported German Pils malt and hopped with German and Czech hops. Light in body, light straw in color and dry.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Sly Fox Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/L7GwPLqhTpw92WcFgly6rpx7wvt5iEH9pfn36ah3vG3Jdh47tM-tC-rt-vz-IBCiViHFcqRsrfeKxHML2pwtPldZHO2HPQ=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/stone-enjoy-by-122517-unfiltered-ipa/5189497679249408" target="_blank">
-		
-		
-			Stone Enjoy By 12.25.17 Unfiltered IPA
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">9.4% ABV</span>
-		
-		
-		
-			<span class="style">Double IPA</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							8 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">An intensely hoppy pale ale with minimal malt character, designed to showcase its strong hop flavors.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Stone Brewing Co</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh6.ggpht.com/aslivMmdTFWup1ojARK_ApQ0Gv7Ht4BPRu44Y63kiUrrkzLKKrp9dsBlKkWr0kLBOw5I6TOnL5TeKCjtiUxeRnGQYl013g=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/tall-tales-blue-ox/5120701903667200" target="_blank">
-		
-		
-			Tall Tales Blue Ox
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">6.8% ABV</span>
-		
-		
-		
-			<span class="style">American Porter</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							16 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">A complex, malty dark beer with a lightly burnt character.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Tall Tales Brewing</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh6.ggpht.com/aslivMmdTFWup1ojARK_ApQ0Gv7Ht4BPRu44Y63kiUrrkzLKKrp9dsBlKkWr0kLBOw5I6TOnL5TeKCjtiUxeRnGQYl013g=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/tall-tales-hood/5543640485855232" target="_blank">
-		
-		
-			Tall Tales Hood
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">8.4% ABV</span>
-		
-		
-		
-			<span class="style">American IPA</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							16 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">A bitter, moderately strong American pale ale that uses its clean, supporting malt to showcase its hop character.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Tall Tales Brewing</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh6.ggpht.com/aslivMmdTFWup1ojARK_ApQ0Gv7Ht4BPRu44Y63kiUrrkzLKKrp9dsBlKkWr0kLBOw5I6TOnL5TeKCjtiUxeRnGQYl013g=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/tall-tales-paul-bunyan/6071109237866496" target="_blank">
-		
-		
-			Tall Tales Paul Bunyan
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">10.2% ABV</span>
-		
-		
-		
-			<span class="style">Belgian Strong Ale</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							10 oz:
+							12 oz:
 						
 						
 							$7.00
@@ -2981,7 +2685,153 @@ Bar, Dining Room & Beer Garden</p>
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Tall Tales Brewing</strong>
+			<strong class="bold brewery-name">Rogue Ales</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/Phyw1wgbIKeKLiAZuAGHsSnHUuK-h0PdE_cBQUYUAKwCtDVv-bgCNVICQSX6o5a3_iG9pzNbtBxsQjO9doe2jrx5n1fu=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/smuttynose-single-digit-dubbel/5438341695406080" target="_blank">
+		
+		
+			Smuttynose Single Digit Dubbel
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">8.0% ABV</span>
+		
+		
+		
+			<span class="style">Belgian Dubbel</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							12 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Smuttynose Single Digit Dubbel (formerly known as Winter Ale) is a full-bodied, amber beer brewed with a special Trappist ale yeast. Stylistically reminiscent of a Belgian Abbey Double, it features fruity aromas and flavor, balanced by spicy Sterling hops. Warming, mellow &amp; pleasantly complex,Smuttynose Single Digit Dubbel is your perfect cold weather companion.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Smuttynose Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/gqVD7P7-nBG2zt3P4a5IXBJan8vCa9b2xKH0eGMGUAGt16sIXa6fV-9tGbQiuCLRGVSf0b6OYWMntGMMAhoCgM7Iw8bb=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/starr-hill-brewery-mocha-double-bass/6604113307238400" target="_blank">
+		
+		
+			Starr Hill Brewery Mocha Double Bass
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">7.8% ABV</span>
+		
+		
+		
+			<span class="style">Sweet Stout</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							12 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A very dark, full-bodied stout with creamy notes that soften its roasted, coffee-flavored qualities.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Starr Hill Brewery</strong>
 			
 		</td>
 	
@@ -3072,16 +2922,16 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/4ZvI5Sp63ANEM09PIvCSMNzuXkGlCw4ELt_yi2urkHnGhtAX_aNfr5qy0UH6Waabt9fWjf15k9oHvbUfSBolfAya5YyX3w=s150" width="50" align="center" />
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/7PQsc807jkWZsb3WC1Ew3sxtmLKUPDpGeTZpBRn93BktDkyUBvWvU7KpF5UkG9Slg6t_jQO-b_8pRpxmFJC3cLPg2e_niQ=s150" width="50" align="center" />
 			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/troegs-mad-elf/3667536" target="_blank">
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/two-roads-holiday-ale/6731545184305152" target="_blank">
 		
 		
-			Tröegs Mad Elf
+			Two Roads Holiday Ale
 		
 		
 			</a>
@@ -3093,11 +2943,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">11.0% ABV</span>
+			<span class="abv">7.0% ABV</span>
 		
 		
 		
-			<span class="style">American Strong Ale</span>
+			<span class="style">Bière de Garde</span>
 		
 		
 			
@@ -3106,7 +2956,7 @@ Bar, Dining Room & Beer Garden</p>
 					<br />
 					<span class="sizeprice">
 						
-							10 oz:
+							12 oz:
 						
 						
 							$7.00
@@ -3120,14 +2970,14 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">The holidays at Tröegs start with our inner Mad Elf momentarily taking over the brew deck. So blame “him” for this cheerful ruby red creation reminiscent of ripened cherries, raw honey and cocoa with notes of cinnamon, clove and allspice.</span><br />
+				<span class="description">A very malty and strong lagered ale</span><br />
 			
 		
 		
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Tröegs Brewing Company</strong>
+			<strong class="bold brewery-name">Two Roads Brewing Company</strong>
 			
 		</td>
 	
@@ -3145,16 +2995,16 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/rFvpSYK9JUSgwYcSda8UF3ZgV7QeLcxAh2ylcL5O5042WuI1_9MMo03Zb0d0Yg6fGkDigaiD-a4vX7srBqCk5zhaHqUq2Ws=s150" width="50" align="center" />
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/7PQsc807jkWZsb3WC1Ew3sxtmLKUPDpGeTZpBRn93BktDkyUBvWvU7KpF5UkG9Slg6t_jQO-b_8pRpxmFJC3cLPg2e_niQ=s150" width="50" align="center" />
 			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername  recent " href="https://www.taphunter.com/beer/two-brothers-ebels-weiss/13209463" target="_blank">
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/two-roads-honeyspot-road/5383753320890368" target="_blank">
 		
 		
-			Two Brothers Ebel&#39;s Weiss
+			Two Roads Honeyspot Road
 		
 		
 			</a>
@@ -3166,11 +3016,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">4.9% ABV</span>
+			<span class="abv">6.0% ABV</span>
 		
 		
 		
-			<span class="style">Weissbier</span>
+			<span class="style">American IPA</span>
 		
 		
 			
@@ -3193,14 +3043,14 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">With nice malty sweetness and a soft aroma of clove, vanilla, and banana, this German style hefe weizen is unfiltered for a glowing orange haze.</span><br />
+				<span class="description">A bitter, moderately strong American pale ale that uses its clean, supporting malt to showcase its hop character.</span><br />
 			
 		
 		
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Two Brothers Brewing Company</strong>
+			<strong class="bold brewery-name">Two Roads Brewing Company</strong>
 			
 		</td>
 	
@@ -3218,16 +3068,16 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/s4KnIhplxj4egrEjyIsQOIa_SI5uRrcWcJvnnj0JgcHU5SfxHmOLJxvCZXqxXk1SFt3mhQGjLd1Ww1kbG_yk7DnQHQkwRA=s150" width="50" align="center" />
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/7PQsc807jkWZsb3WC1Ew3sxtmLKUPDpGeTZpBRn93BktDkyUBvWvU7KpF5UkG9Slg6t_jQO-b_8pRpxmFJC3cLPg2e_niQ=s150" width="50" align="center" />
 			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/victory-dirt-wolf/6638735450963968" target="_blank">
+			<a class="bold beername  recent " href="https://www.taphunter.com/beer/two-roads-no-limits-hefeweizen/6463620158324736" target="_blank">
 		
 		
-			Victory Dirt Wolf
+			Two Roads No Limits Hefeweizen
 		
 		
 			</a>
@@ -3239,7 +3089,224 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">8.7% ABV</span>
+			<span class="abv">5.0% ABV</span>
+		
+		
+		
+			<span class="style">American Wheat Beer</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Beautifully cloudy with a generous head of foam, a wonderful fruit aroma and a dry finish.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Two Roads Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/7PQsc807jkWZsb3WC1Ew3sxtmLKUPDpGeTZpBRn93BktDkyUBvWvU7KpF5UkG9Slg6t_jQO-b_8pRpxmFJC3cLPg2e_niQ=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/two-roads-ol-factory/5496867190210560" target="_blank">
+		
+		
+			Two Roads Ol&#39; Factory
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">5.0% ABV</span>
+		
+		
+		
+			<span class="style">German Pils</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							16 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">Traditional in concept with a Two Roads twist…dry hops. We use a combination of classic German as well as American hop and malt varieties in our Pils. We renovated a 100 year-old factory building and designed this Pils to have “extra” aroma…so, pardon the pun! Crisp…refreshing…refined.2015 GIBF silver medal- Continental Pilsner</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Two Roads Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+				<img class="brewerylogo" src="https://lh3.googleusercontent.com/pQ3E8AA1YoIXjBWwkfBqf-mnbA_Km-U8ztq8U9BAmMn-gAw6D_1iiLzg0FrZNMHvK8n2nK5O3ZBIv50N-XO9zALLWRq-=s150" width="50" align="center" />
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/uinta-season-pass-vanilla/6573870798340096" target="_blank">
+		
+		
+			Uinta Season Pass Vanilla
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">4.0% ABV</span>
+		
+		
+		
+			<span class="style">American Porter</span>
+		
+		
+			
+				
+					
+					<br />
+					<span class="sizeprice">
+						
+							20 oz:
+						
+						
+							$7.00
+						
+					</span>
+					
+				
+			
+		
+		<br />
+		
+		
+			
+				<span class="description">A complex, malty dark beer with a lightly burnt character.</span><br />
+			
+		
+		
+	</td>
+	
+		<td class="brewery-column">
+			<strong class="bold brewery-name">Uinta Brewing Company</strong>
+			
+		</td>
+	
+</tr>
+<tr class="linerow">
+	<td colspan="3">
+		<hr />
+	</td>
+</tr>
+
+		
+			
+			
+			<tr>
+	<td width="65" class="logo-column">
+		
+			
+		
+	</td>
+	<td class="beer-column">
+		
+			<a class="bold beername " href="https://www.taphunter.com/beer/unionperrenial-summer-somewhere/6179148372115456" target="_blank">
+		
+		
+			Union/Perrenial Summer Somewhere
+		
+		
+			</a>
+		
+		
+		
+		
+		
+		<br />
+		
+		
+			<span class="abv">7.9% ABV</span>
 		
 		
 		
@@ -3266,87 +3333,14 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">An intensely hoppy pale ale with minimal malt character, designed to showcase its strong hop flavors.</span><br />
+				<span class="description">Summer Somewhere is a Double Dry-hopped, tropical IPA brewed in collaboration with brewer Phil Wymore of St. Louis, MO’s Perennial Artisan</span><br />
 			
 		
 		
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Victory Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/s4KnIhplxj4egrEjyIsQOIa_SI5uRrcWcJvnnj0JgcHU5SfxHmOLJxvCZXqxXk1SFt3mhQGjLd1Ww1kbG_yk7DnQHQkwRA=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/victory-java-cask/6368997349523456" target="_blank">
-		
-		
-			Victory Java Cask
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">14.3% ABV</span>
-		
-		
-		
-			<span class="style">BA Imperial Stout</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							6 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">A big, intensely flavored dark ale that ends with a warming, bittersweet finish.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Victory Brewing Company</strong>
+			<strong class="bold brewery-name">Union/Perrenial</strong>
 			
 		</td>
 	
@@ -3437,16 +3431,14 @@ Bar, Dining Room & Beer Garden</p>
 	<td width="65" class="logo-column">
 		
 			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/pqUA9LZhMWIBMweLHEXndPfSvqkFh42U8HQ7I5BlnSGT4LNsbaVT8nwEMHNU8TFpMxKv3k3uLu2TZxVNeUIrO_5UMipT=s150" width="50" align="center" />
-			
 		
 	</td>
 	<td class="beer-column">
 		
-			<a class="bold beername " href="https://www.taphunter.com/beer/waredaca-maude/5150980748083200" target="_blank">
+			<a class="bold beername " href="https://www.taphunter.com/beer/wild-goose-snow-goose/5745450224975872" target="_blank">
 		
 		
-			Waredaca Maude
+			Wild Goose Snow Goose
 		
 		
 			</a>
@@ -3458,11 +3450,11 @@ Bar, Dining Room & Beer Garden</p>
 		<br />
 		
 		
-			<span class="abv">6.7% ABV</span>
+			<span class="abv">6.9% ABV</span>
 		
 		
 		
-			<span class="style">Belgian Dubbel</span>
+			<span class="style">Winter Seasonal Beer</span>
 		
 		
 			
@@ -3485,160 +3477,14 @@ Bar, Dining Room & Beer Garden</p>
 		
 		
 			
-				<span class="description">A moderately strong Trappist ale with rich malty flavors and a color of reddish-copper</span><br />
+				<span class="description">Our winter ale will warm your winter with a round toasty body and a vibrant finish of Cascade, Willamette, Fuggles and Goldings hops. A rich</span><br />
 			
 		
 		
 	</td>
 	
 		<td class="brewery-column">
-			<strong class="bold brewery-name">Waredaca Brewing Company</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/YIeGAbSa3CLKGRry1lnefVk14t7jsBirhY_YrdwHAgtYEt0s-T3ygENP_xY6BihvtbiLC3mqv3wLBatgwR2t8R_Xw5XA5g=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/wyndridge-farm-grapefruit-cider/6667719281475584" target="_blank">
-		
-		
-			Wyndridge Farm Grapefruit Cider
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">5.0% ABV</span>
-		
-		
-		
-			<span class="style">Common Cider</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							16 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">A refreshing drink with medium body and wine-like apple flavor.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Wyndridge Farm</strong>
-			
-		</td>
-	
-</tr>
-<tr class="linerow">
-	<td colspan="3">
-		<hr />
-	</td>
-</tr>
-
-		
-			
-			
-			<tr>
-	<td width="65" class="logo-column">
-		
-			
-				<img class="brewerylogo" src="https://lh3.googleusercontent.com/ICAfxpeaiPlCkRr62GAs5AfaAuKrymEzKnZ7S_8eCZN9MMxr-NYblojmdrnFlZVIKFyqRoEO5a1bcAeupUqgjVwbzy_V=s150" width="50" align="center" />
-			
-		
-	</td>
-	<td class="beer-column">
-		
-			<a class="bold beername " href="https://www.taphunter.com/beer/yards-rival-ipa/5331834211401728" target="_blank">
-		
-		
-			Yards Rival IPA
-		
-		
-			</a>
-		
-		
-		
-		
-		
-		<br />
-		
-		
-			<span class="abv">6.2% ABV</span>
-		
-		
-		
-			<span class="style">American IPA</span>
-		
-		
-			
-				
-					
-					<br />
-					<span class="sizeprice">
-						
-							16 oz:
-						
-						
-							$7.00
-						
-					</span>
-					
-				
-			
-		
-		<br />
-		
-		
-			
-				<span class="description">Contrary to its name, Rival’s ingredients work in perfect harmony for a bold, balanced IPA. The recipe starts with a base of pale crystal and rye malts, and Bravo and Nugget bittering hops. Then whole flower Chinook hops go into the hopback, extracting that signature pine character. Finally, Rival is dry hopped with Centennial, Citra, Simcoe and Columbus hops, giving this amber-colored IPA a complex citrus profile.</span><br />
-			
-		
-		
-	</td>
-	
-		<td class="brewery-column">
-			<strong class="bold brewery-name">Yards Brewing Company</strong>
+			<strong class="bold brewery-name">Wild Goose</strong>
 			
 		</td>
 	
