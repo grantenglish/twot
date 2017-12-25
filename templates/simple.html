@@ -50,8 +50,9 @@ $(document).ready(function() {
         <td>  {{ beer.type}} </td>
         <td>  {{ beer.abv}} </td>
         <td>  {{ beer.size}} </td>
+        <td>  <button type="button" name="{{beer.style}}">Buy</button></td>
     </tr>
- {% endfor %}\
+ {% endfor %}
 </tbody></table>
 
 </div>
