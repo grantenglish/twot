@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import json
-from flask import Flask, Response, render_template, send_from_directory
+from flask import Flask, Response, render_template, send_from_directory, request
 
 app = Flask(__name__, static_url_path='')
 
@@ -26,6 +26,12 @@ def serveCSS():
 #
 # real routes
 #
+@app.route('/table', methods=['POST'])
+def my_form_post():
+    print(request.form)
+    return "button"
+
+
 @app.route('/get')
 def getBeers():
     global allBeers
