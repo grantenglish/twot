@@ -33,28 +33,30 @@ $(document).ready(function() {
 </script>
 
 <div id="content">
-<table id="myDummyTable" class="tablesorter table table-striped">
-<thead>
-<tr>
-  <th>Name</th>
-  <th>Style</th>
-  <th>ABV</th>
-  <th>Size</th>
-</tr>
-</thead>
-<tbody>
+    <form method="post">
+        <table id="myDummyTable" class="tablesorter table table-striped">
+            <thead>
+            <tr>
+              <th>Name</th>
+              <th>Style</th>
+              <th>ABV</th>
+              <th>Size</th>
+            </tr>
+            </thead>
+            <tbody>
 
- {% for beer in beers %}
-    <tr>
-        <td>  {{ beer.style}} </td>
-        <td>  {{ beer.type}} </td>
-        <td>  {{ beer.abv}} </td>
-        <td>  {{ beer.size}} </td>
-        <td>  <button type="button" name="{{beer.style}}">Buy</button></td>
-    </tr>
- {% endfor %}
-</tbody></table>
-
+             {% for beer in beers %}
+                <tr>
+                    <td>  {{ beer.style}} </td>
+                    <td>  {{ beer.type}} </td>
+                    <td>  {{ beer.abv}} </td>
+                    <td>  {{ beer.size}} </td>
+                    <td>  <input type="submit" name="{{beer.style}}" value="Buy"/></td>
+                </tr>
+             {% endfor %}
+            </tbody>
+        </table>
+    </form>
 </div>
 
 </body>
